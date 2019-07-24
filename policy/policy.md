@@ -5,7 +5,7 @@
 
 # 모두의 클래스 개인정보 처리방침
 
-[개인정보처리방침 바로가기](https://docs.google.com/document/d/14VP-ixyuNuEQzdNFFxQl4kqNlzVIz7D87dAgRz2a44A/edit"바로가기")
+[개인정보처리방침 바로가기](https://docs.google.com/document/d/14VP-ixyuNuEQzdNFFxQl4kqNlzVIz7D87dAgRz2a44A/edit "바로가기")
 
 ```개인정보는 개인정보 보호법 제30조에 따라 서비스를 이용하는 정보주체를 보호합니다.```  
 ```우리는 정책을 수립함에 있어 법의 선을 넘지 않는 범위에서 업무를 진행합니다.```
@@ -31,7 +31,7 @@
 ## 현재 위탁하고 있는 정보들  
 > 수탁자  
 - 온라인 결제대행  
-  - [페이앱](http://payapp.kr/index.html"바로가기") / [이니시스](https://iniweb.inicis.com/security/login.do"바로가기") / [토스](https://merchant.pay.toss.im/login) / [페이플](https://merchant.pay.toss.im/login)  
+  - [페이앱](http://payapp.kr/index.html "바로가기") / [이니시스](https://iniweb.inicis.com/security/login.do "바로가기") / [토스](https://merchant.pay.toss.im/login "바로가기") / [페이플](https://merchant.pay.toss.im/login)  
 
 - 준비물 준비/배송 업무  
   - [이고진](https://smartstore.naver.com/egojin?n_media=27758&n_query=%EC%9D%B4%EA%B3%A0%EC%A7%84&n_rank=1&n_ad_group=grp-a001-01-000000009809863&n_ad=nad-a001-01-000000054489599&n_keyword_id=nkw-a001-01-000001821777002&n_keyword=%EC%9D%B4%EA%B3%A0%EC%A7%84&n_campaign_type=1&NaPm=ct%3Djygvm3eg%7Cci%3D0z400033Z3rrq2Ijyvjd%7Ctr%3Dsa%7Chk%3D2c86cf46832ba8550c8786d664394958a2f55f83) / [히든템](https://hiddentem.com/?NaPm=ct%3Djygvmmt1%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3D%7Chk%3D3b45c66190867c795124c1e702b9ed87c863bc01)  
@@ -56,6 +56,6 @@
 ----------------
 
 2019년 7월 8일 이전 개인정보처리방침
-[바로가기](https://www.modooclass.net/app/customer/private"바로가기")  
+[바로가기](https://www.modooclass.net/app/customer/private "바로가기")  
 
 
