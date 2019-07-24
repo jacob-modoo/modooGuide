@@ -1,6 +1,6 @@
 
 
-# ModooCLASS. 워크샵 1팀
+# ModooCLASS. 워크샵 2팀
 
 
 ### 팀원
