@@ -1,6 +1,6 @@
 
 
-# ModooCLASS. 워크샵 1팀
+# ModooCLASS. 워크샵 1팀 모도의팀! "모 아니면 도"
 
 
 ### 팀원
