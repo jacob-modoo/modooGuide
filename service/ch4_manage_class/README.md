@@ -1,6 +1,6 @@
 # 클래스 관리
 
-> 모두의 트레이닝 [실제 서비스 화면](https://www.modooclass.net/class/manager/list)
+> 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/list)
 >
 > [디자인화면 - 링크필요]() 
 
