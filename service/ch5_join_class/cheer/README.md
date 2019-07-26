@@ -1,4 +1,4 @@
-# 사용자단 - Cheer
+# 사용자단 - Cheer(강의화면)
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
 >
