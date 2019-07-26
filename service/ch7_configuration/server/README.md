@@ -1,52 +1,27 @@
 # 서버
 
-## 서비스 정의
+## 개요
+> 모두의 트레이닝, 모두의 클래스 서비스 위한 서버 사항
 
-> 웹서버 
-``` bash
-웹에서 서버 기능을 수행하는 프로그램
-- HTTP 프로토콜을 기반으로 하여 웹 클라이언트(브라우저)로부터의 요청을 서비스하는 기능을 담당
-- HTTP 서버, Web Server; WS 라고도 불린다
+## 핵심목표
+> 100만명이 서비스 받아도 원활한 서비스가 가능해야한다.
 
-웹 서버의 역할 : 클라이언트로부터의 요청을 받는 일과 처리된(서비스) 결과를 클라이언트로 응답하는 일로 나뉜다
-- 클라이언트가 요청한 웹 문서를 찾아서 전달하는 기능 처리
-- 요청 파일이 없거나 문제가 발생하면 정해진 코드 값으로 응답
-- 클라이언트로부터의 요청에 대한 기본 사용자 인증(Basic Authentication)을 처리
-- 서버 프로그램에 대한 요청을 웹 애플리케이션 서버에 수행시키고 그 결과를 응답
-
-[출처] WS와 WAS (웹서버와 웹 애플리케이션 서버)|작성자 유지
-``` 
-> 데이터베이스 서버  (DB서버)
-``` bash
-간단히 비유하자면 데이터베이스 자체는 화물(데이터)을 저장할 수 있는 창고 그 자체의 역할만 수행하고, 화물을 적재하거나 적재된 화물을 처리할 수 있는 능력은 없다. 이 때문에 DBMS라는 관리자들을 고용하여 화물을 적재하거나 이동시키는 등 여러가지 업무를 수행하도록 하는 것이다.
-
-[출처] https://namu.wiki/w/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
-``` 
-
-## 서비스 구성
+## Content
+### 서비스별 서버 구성
 > 웹서버 : 홈페이지 (www.modooclass.net)
-``` bash
-``` 
-> 웹서버 : CMS  (cms.enfit.net/user)
-``` bash
-``` 
-> API 서버 : api.enfit.net / api2.enfit.net
-``` bash
-``` 
+> 웹서버 : modooclass APP API (api2.enfit.net)
+> 웹서버 : CMS, modootraining APP API  (cms.enfit.net/user, api.enfit.net)
+> DB서버: modootraining APP, modooclass APP, tracking DATA
+> Sendbird: https://sendbird.com/solutions/chat-for-online-communities
+: modootraining Chat(예정), modooclass Chat(예정)
+> Firebase: https://console.firebase.google.com/
+: RealtimeDatabase(사용자 활동추적,앱/웹 동기화,Sendbird Chat 도입전 테스트)
 
-
-## 서비스 최적화
-> 데이터베이스 서버 이중화 - MySQL Replication (Master-Slave) 
-``` bash
-``` 
-> 이미지 최적화 - JPG, 각 항목별 이미지 width/height  정의
-``` bash
-``` 
-
+## 개선사항
+> 이미지 최적화
+> 이미지 CDN
+> 웹서버 로드밸런싱
+> DB서버 로드밸런싱
 
 ## 작업자
-``` bash
-안지환 127kla@gmail.com
-``` 
-
-
+> @안지환
