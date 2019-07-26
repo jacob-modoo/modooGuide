@@ -1,76 +1,15 @@
-# 모두의 클래스 항해일지
+# DB 시스템 구성
 
-> **노하우** 를 배우고 나누는 클래스 마켓
->
-> 언제 어디서나 함께 하는 즐거움. 
+## 로드밸런싱 MySQL Replication
 
+> Write : Master
+> Read : Slave1, Slave2
 
+154 (Master) -> 159 (Slave1), 181 (Slave2)
 
-![](image/logo1024.png)
+Master - 전체 데이터
+Slave1 - modootraining 데이터, modooclass 데이터
+Slave2 - modooclass 데이터
 
-
-
-
-
-
-
-## 모두의 클래스 서비스 개요 
-
->  모두의 클래스 서비스는 누구나 코치가 되어 온라인 클래스를 열어 수익을 가져 갈 수 있는 플랫폼형 웹 / 앱 서비스로 크게 아래 7개 장으로 구성되어 있다.
->
-> 각 장은 화면단 `구성|기능|디자인|작업자 `  로  되어 있으며, 각 장은 추가 개선사항과  Configuration 문서로 연결 되어 관리한다. 
-
-
-
-
-
-### 1장. 사용자단  `web`
-
-######  사용자단은 웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다.  
-
- 
-
-
-
-- [로그인 / 회원가입 / 비번 찾기 : 기획문서](modooclass/home/login)   =>  [*서비스화면단이동*](https://www.modooclass.net/modoo/login)
-- [홈 화면 : 기획문서](modooclass/home)  => [*서비스화면단이동*](https://www.modooclass.net/)
-- 
-- 
-
-### 2장. 마이페이지  `web` 
-
-
-
-### 3장. 클래스 개설  `web`
-
-노하우 를 배우고 나누는 클래스 마켓
-
-### 4장. 클래스 관리  `web`
-
-
-
-### 5장. 클래스 참여  `app`
-
-
-
- ### 6장. CMS 최종 관리자단  `web`
-
-
-
-### 7장. Configuration  `git-text`
-
-
-
-##  Contributor 
-
-#### [서비스 제작 참여]
-
-- 기획 => `@김대형` `@신민수`
-
-- 디자인 => `@김보라` `@신미소`
-
-- 개발 => `@안지환` `@노육민` `@박정희` `@김혜진` `@이대준` `@조현민`
-
-- 제품 참여 => `@강승권` `@김재환` `@콘텐츠팀` `@코치진` `@사제이기하` `@대교인베스트김재엽`
-
-  
+CMS.ENFIT.NET (+ 모두의트레이닝앱 API) : write Master, read Slave1 와 연결
+모두의클래스 API : write Master, read Master, Slave1, Slave2와 연결
