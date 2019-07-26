@@ -1,4 +1,4 @@
-# 사용자단 - Alarm
+# 사용자단 - Cheer
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
 >
