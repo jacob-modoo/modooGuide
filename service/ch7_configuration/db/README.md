@@ -13,5 +13,6 @@
 
 CMS.ENFIT.NET (+ 모두의트레이닝앱 API)
 > write Master, read Slave1 와 연결
+
 모두의클래스 API 
 > write Master, read Master, Slave1, Slave2와 연결
