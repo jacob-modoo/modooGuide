@@ -8,7 +8,7 @@
 
 - 이전      
 - [**메인인덱스**](../README.md)     
-- [다음 : 프로필]( ../curriculum/README.md)
+- [다음 : 프로필]( ../community/README.md)
 
 
 
