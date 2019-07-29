@@ -10,7 +10,7 @@
 
 ## Content
 
-toast() 제공 서비스 "Content Delivery Korea origin" 이용
+toast(https://console.toast.com/) 제공 서비스 "Content Delivery Korea origin" 이용
 
 > rls1jaekp.cdn.toastcloud.com (주 : 업로드 이미지)
 
