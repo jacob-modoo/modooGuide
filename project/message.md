@@ -21,6 +21,7 @@
 >
 
 
+[프로젝트 링크](https://github.com/jacob-modoo/modooGuide/projects/8#column-6058247)
 
 1차버전 업데이트후 디벨롭 예정. 
 
