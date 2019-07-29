@@ -13,12 +13,12 @@
 2. /data_new/speed/ 화일 존재여부 확인
 3. 없을 경우 요청사항에 맞쳐 컨버팅 진행 (md5 첫 자리 이용하여 파일 저장 폴더 분산)
 4. 이미지 출력
-````
+````image
 	ob_start('ob_gzhandler');
 	$fp = fopen($file, 'rb');
 	fpassthru($fp);
 	fclose ($fp);
-````image
+````
 
 ## 작업자
 > @안지환
