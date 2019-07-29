@@ -40,7 +40,14 @@
 4 - 종료
 
 #### 알림정의
-
+push_type 0 - 웹뷰 이동
+push_type 1 - 클래스 상세 화면 이동
+push_type 2 - 클래스 상세 내 커뮤니티화면 이동
+push_type 3 - 댓글 상세 화면 이동
+push_type 4 - 친구 프로필화면 이동
+push_type 5 - 홈화면으로 이동
+push_type 6 - 프로필화면으로 이동
+push_type 7 - 알림화면으로 이동
 
 #### 알림상에서 이동페이지 정의
 
