@@ -30,11 +30,11 @@
 ## 앱 처리 사항 
 (@이대준,@조현민)
 
-1. 다른 회원 프로필 (앱)에서 "메세지 보내기" 버튼
-> CHAT메뉴 이동시 "/class/chat/유저아이디" 주소로 변경하여 호출
-
-2. push type 추가정의 
-> push_type : 7, push_url : 사용url "/class/chat/활성대화방ID"
+> 0. CHAT 메뉴 클릭시, 앱에서 스크립트 호출 ( 새로고침 활용목적 : AppActive(); )
+> 1. 회원 프로필 (앱)에서 "메세지 보내기" 아이콘 클릭시 웹뷰(new) "/class/chat/유저아이디" 주소
+> 창 닫을 경우, 해당 창만 닫음
+> 2. push_type 8 : 메세지표시안함. 메뉴화면 badge 카운트
+> 3. push_type 9 : 새로운 메세지 알림, 클릭시 웹뷰(new) 주소는 push_url 정의 "/class/chat/활성대화방ID"
 
 
 ## 작업자
