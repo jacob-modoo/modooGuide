@@ -196,7 +196,7 @@
 
 - [채팅](service/ch5_join_class/chat) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- [알림](service/ch5_join_class/alram) => [`app down`](https://www.modooclass.net/class/user/following/140019) 랫폼(웹/앱) 서비스로 
+- [알림](service/ch5_join_class/alram) => [`app down`](https://www.modooclass.net/class/user/following/140019) 플랫폼(웹/앱) 서비스로 
   새로운 일을 형태 | 사람과 사람의 연결에 가치를 두고 있다. 
 
   해당 문서는 내부 가이드 문서로서 팀원간 원활한 소통과 서비스 정책을 공유 하기 위함.
@@ -209,7 +209,7 @@
 
 - [클래스참여 - configuration](service/ch5_join_class/config)
 
-  [작업자] 기획 -  `@신민수` `@김대형` |디자인 - `@신미소` | 개발 - `@이대준` 랫폼(웹/앱) 서비스로 
+  [작업자] 기획 -  `@신민수` `@김대형` |디자인 - `@신미소` | 개발 - `@이대준` 플랫폼(웹/앱) 서비스로 
 새로운 일을 형태 | 사람과 사람의 연결에 가치를 두고 있다. 
 
 해당 문서는 내부 가이드 문서로서 팀원간 원활한 소통과 서비스 정책을 공유 하기 위함.
