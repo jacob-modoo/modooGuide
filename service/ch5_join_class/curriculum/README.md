@@ -40,7 +40,7 @@
 
 ### **#디자인**
 
-- [디자인 이미지(png) 링크(update-0724)](https://drive.google.com/open?id=1aljDi_y2EvaTIFgsISmj-CQS2iBAxazW)
+- [디자인 이미지(png) *update-0724](https://drive.google.com/open?id=1aljDi_y2EvaTIFgsISmj-CQS2iBAxazW)
 
 - `@신미소`  코멘트
 
