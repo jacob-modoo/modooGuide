@@ -59,7 +59,7 @@
 - 기획 - `@김대형` `@신민수`
 - 디자인 - `@신미소`
 - 서버 API - `@안지환`
-- 앱 개발 -  `[@이대준](https://github.com/DaeJunLee)` `@조현민`
+- 앱 개발 -  [@이대준](https://github.com/DaeJunLee) `@조현민`
 
 
 
