@@ -57,7 +57,7 @@
 ### **#작업자**
 
 - 기획 - `@김대형` `@신민수`
-- 디자인 - `@신미소`
+- 디자인 - [@신미소](https://github.com/meeso-modoo)
 - 서버 API - `@안지환`
 - 앱 개발 -  [@이대준](https://github.com/DaeJunLee) `@조현민`
 
