@@ -40,7 +40,7 @@
 
 ### **#디자인**
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+- [디자인 이미지(png) *update:0729](https://drive.google.com/open?id=1N2eaHlCSkL-ypSoj5mDWc_bMHmjXXDIB)
 
 - `@신미소`  코멘트
 
