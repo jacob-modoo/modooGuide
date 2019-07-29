@@ -11,12 +11,16 @@
 
 > 웹서버 : 홈페이지 (www.modooclass.net)
 "- 175.207.13.181"
+
 > 웹서버 : modooclass APP API (api2.enfit.net)
 "- 175.207.13.159"
+
 > 웹서버 : CMS, modootraining APP API  (cms.enfit.net/user, api.enfit.net)
 "- 175.207.13.154"
+
 > DB서버: modootraining APP, modooclass APP, tracking DATA
 "- 175.207.13.154 (175.207.13.159/175.207.13.181)"
+
 > Redis
 ```redis
 Redis는 데이터베이스의 여러 솔루션 중 하나로 메모리를 사용하는 키, 밸류 형식의 데이터베이스이다. 
