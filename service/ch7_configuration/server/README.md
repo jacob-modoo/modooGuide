@@ -35,13 +35,13 @@ Redis는 데이터베이스의 여러 솔루션 중 하나로 메모리를 사�
 
 ## 개선사항
 
-> 이미지 최적화(service/ch7_configuration/server/image_optimize)
+> [이미지 최적화](image_optimize)
 
-> 이미지 CDN(service/ch7_configuration/server/cdn)
+> [이미지 CDN](cdn)
 
-> 웹서버 로드밸런싱(service/ch7_configuration/server/load_balancing)
+> [웹서버 로드밸런싱](load_balancing)
 
-> DB서버 로드밸런싱(service/ch7_configuration/server/load_balancing)
+> [DB서버 로드밸런싱](load_balancing)
 
 ## 작업자
 > @안지환
