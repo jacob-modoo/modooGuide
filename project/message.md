@@ -19,7 +19,7 @@
 >  6. 이미지 보내기 기능.
 >  7. ~공지 사항 띠우기. 기능~
 
-
+> 당일(오전/오후 시간 | 일자)
 
 [프로젝트 링크](https://github.com/jacob-modoo/modooGuide/projects/8#column-6058247)
 
