@@ -34,6 +34,11 @@
 
 > CHAT메뉴 이동시 "/class/chat/유저아이디" 주소로 변경하여 호출
 
+> 2. push type 추가정의 
+
+> push_type : 7, push_url : 사용url "/class/chat/활성대화방ID"
+
+
 ## 작업자
 
 @김대형 @신민소 @김혜진 @안지환. 
