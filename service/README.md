@@ -68,7 +68,7 @@
 
 ## 5장 클래스 참여
 
-1.  APP 홈
+1. [APP 홈](https://github.com/jacob-modoo/modooGuide/tree/master/service/ch5_join_class)
 2. 클래스 - 수업
 3. 클래스 - 커리큘럼
 4. 클래스 - 응원하기
