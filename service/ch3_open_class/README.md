@@ -43,8 +43,8 @@
 
    - Web
 
-     - 코치 정보가 등록되어 있지 않은 사용자: [코치 신청 페이지 이동](www.modooclass.net/class/user/coach_propose)
-     - 코치 정보가 등록되어 있는 사용자: [클래스 개요 페이지 이동](www.modooclass.net/class/user/class_create)
+     > 코치 정보가 등록되어 있지 않은 사용자: [코치 신청 페이지 이동](www.modooclass.net/class/user/coach_propose)
+     > 코치 정보가 등록되어 있는 사용자: [클래스 개요 페이지 이동](www.modooclass.net/class/user/class_create)
 
 3. 인트로
 
@@ -72,8 +72,8 @@
 
     - Web
 
-     > [이용약관](www.modooclass.net/app/customer/agreement), [개인정보취급방침](www.modooclass.net/app/customer/policy), [FAQ](www.modooclass.net/modoo/faq), 사업자정보<br />
-     > 소셜정보: [페이스북](www.facebook.com/모두의-트레이닝-104879130045273/), [인스타그램](https://www.instagram.com/modootraining/), [유튜브](https://www.youtube.com/channel/UCQ9WEzhuxE4UR69Ku4kQVSA), [블로그](https://blog.naver.com/enfit), 카카오톡 상담
+      > [이용약관](www.modooclass.net/app/customer/agreement), [개인정보취급방침](www.modooclass.net/app/customer/policy), [FAQ](www.modooclass.net/modoo/faq), 사업자정보<br />
+      > 소셜정보: [페이스북](www.facebook.com/모두의-트레이닝-104879130045273/), [인스타그램](https://www.instagram.com/modootraining/), [유튜브](https://www.youtube.com/channel/UCQ9WEzhuxE4UR69Ku4kQVSA), [블로그](https://blog.naver.com/enfit), 카카오톡 상담
 
 
 
