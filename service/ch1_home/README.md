@@ -121,7 +121,7 @@
 
 ### **#디자인**
 
-- https://xd.adobe.com/spec/a058f9e0-5b3b-4519-595d-dc107e62a3d3-d669/grid 
+- https://xd.adobe.com/spec/1ae6c36a-704e-4d2c-61e0-6d26ce56710d-6cd7/
 
 - `@김보라`  코멘트
 
