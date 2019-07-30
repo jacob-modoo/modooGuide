@@ -70,6 +70,10 @@
  그룹대화방인경우 "G그룹ID"로 설정됨
 ````
 
+> 앱 브리지
+ios : webkit.messageHandlers.goToChatDetail.postMessage('room_id')
+android : window.android.goToChatDetail(String room_id)
+
 
 ## 작업자
 
