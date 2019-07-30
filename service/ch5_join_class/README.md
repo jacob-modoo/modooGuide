@@ -25,40 +25,47 @@
 
 작성자 : [@이대준](https://github.com/DaeJunLee)
 
-1. Top 
+모두의 클래스 애플리케이션 메인화면은
 
-   ![App Home Screen](./img/home1.jpg)
-   - 클래스 개설
-     > 클래스를 개설할수 있습니다.
-   - Circle Icon
-     > 자신이 참여하고 있는 강의들이 표시 됩니다.
+- Top - 클래스개설, 참여하고 있는 클래스(Circle Icon)
+- Search - 클래스나 코치 찾기
+- Body - 클래스
+- Banner - 광고
 
-2. Search - 클래스나 코치를 검색해보세요 영역
+로 나누어져 있습니다.
 
-   ![App Home Search Screen1](./img/search/search1.jpg)
-   - 클래스나 코치를 
-     > 클래스나 코치이름으로 클래스를 찾을수 있습니다.
 
-3. Body
+#### 1. Top
+![App Home Screen](./img/home1.jpg)
 
-   ![App Home Body Screen1](./img/home2.jpg)
-   <!--![App Home Body Screen2](./img/home3.jpg)-->
-   <!--![App Home Body Screen3](./img/home4.jpg)-->
-   <!--![App Home Body Screen4](./img/home5.jpg)-->
-   - 클래스 리스트를 유형별로 보여준다
-     > 실시간 인기 클래스 리스트
+- 클래스 개설
+   > 클래스를 개설할수 있습니다.
+-  Circle Icon
+   > 자신이 참여하고 있는 강의들이 표시 됩니다.
 
-     > 알림신청하면 가격이 와르르르
+#### 2. Search - 클래스나 코치를 검색해보세요 영역
 
-     > 공짜 좋아하다간 돈 아낀다! 무료 클래스
+![App Home Search Screen1](./img/search/search1.jpg)
+- 클래스나 코치를 
+  > 클래스나 코치이름으로 클래스를 찾을수 있습니다.
 
-     > 1:1 트래이닝 카테고리 모음
+#### 3. Body
+
+![App Home Body Screen1](./img/home2.jpg)
+<!--![App Home Body Screen2](./img/home3.jpg)-->
+<!--![App Home Body Screen3](./img/home4.jpg)-->
+<!--![App Home Body Screen4](./img/home5.jpg)-->
+- 클래스 리스트를 유형별로 보여준다
+  > 실시간 인기 클래스 리스트
+  > 알림신청하면 가격이 와르르르
+  > 공짜 좋아하다간 돈 아낀다! 무료 클래스
+  > 1:1 트래이닝 카테고리 모음
    
-4. Banner
+#### 4. Banner
 
-   ![App Home Banner Screen](./img/home_banner.jpg)
-   - 광고할수 있는 배너 영역 입니다.
-     > 모두의 클래스 이벤트 및 광고 영역
+![App Home Banner Screen](./img/home_banner.jpg)
+- 광고할수 있는 배너 영역 입니다.
+  > 모두의 클래스 이벤트 및 광고 영역
 
 ### **#디자인**
 업데이트 일시 : 2019.07.29
