@@ -68,16 +68,16 @@
 
 ## 5장 클래스 참여
 
-1. [APP 홈](ch5_join_home)
-2. [클래스 - 수업](ch5_join_home/class)
-3. [클래스 - 커리큘럼](ch5_join_home/curriculum)
-4. [클래스 - 응원하기](ch5_join_home/cheer)
-5. [클래스 - 커뮤니티](ch5_join_home/community)
-6. [채팅](ch5_join_home/chat)
-7. [알림](ch5_join_home/alarm)
-8. [프로필](ch5_join_home/profile)
-9. [QA문서](ch5_join_home)
-10. [config](ch5_join_home)
+1. [APP 홈](ch5_join_home/)
+2. [클래스 - 수업](ch5_join_home/class/)
+3. [클래스 - 커리큘럼](ch5_join_home/curriculum/)
+4. [클래스 - 응원하기](ch5_join_home/cheer/)
+5. [클래스 - 커뮤니티](ch5_join_home/community/)
+6. [채팅](ch5_join_home/chat/)
+7. [알림](ch5_join_home/alarm/)
+8. [프로필](ch5_join_home/profile/)
+9. [QA문서](ch5_join_home/)
+10. [config](ch5_join_home/)
 
 
 
