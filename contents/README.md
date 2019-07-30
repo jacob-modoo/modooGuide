@@ -20,10 +20,6 @@
 각 단계별로 스프레드 시트 탭을 나누어서 클래스 오픈을 도와줍니다.  
 https://docs.google.com/spreadsheets/d/1QatMFzVcCZ5JFaph4xfUbTmavuu8f1VfwrtOb2GP8gg/edit?usp=sharing
 
-
-
-
-
 1) 코치 찾기 및 페이지 생성 대기 : 최대한 많은 코치를 접촉하는 것이 목표!  
  > 1. 클래스 생성할 수 있는 코치 리스트업  
  > 1. 이메일 및 인스타DM으로 자료와 함께 콜드콜  
