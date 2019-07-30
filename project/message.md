@@ -61,9 +61,9 @@
 (@이대준,@조현민)
 
 > 0. CHAT 메뉴 클릭시, 앱에서 스크립트 호출 ( 새로고침 활용목적 : AppActive(); )
-> 1. 회원 프로필 (앱)에서 "메세지 보내기" 아이콘 클릭시 웹뷰(new) "/class/chat/유저아이디" 주소
+> 1. 회원 프로필 (앱)에서 "메세지 보내기" 아이콘 클릭시 웹뷰(new) "https://chat.modooclass.net/class/chat/유저아이디" 주소
 > 창 닫을 경우, 해당 창만 닫음
-> 2. push_type 8 : 새로운 메세지 알림, 클릭시 웹뷰(new) 주소는 push_url 정의 "/class/chat/활성대화방ID"
+> 2. push_type 8 : 새로운 메세지 알림, 클릭시 웹뷰(new) 주소는 push_url 정의 "https://chat.modooclass.net/class/chat/활성대화방ID"
 ````comment
 # 채팅화면에서는 푸쉬 메세지(CHAT내용에 한함) 동작안함
 # 활성대화방ID는 친구프로필에서 메세지보내기 아이콘 터치시 "친구ID"로 설정되며,
