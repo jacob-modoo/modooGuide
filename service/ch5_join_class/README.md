@@ -7,9 +7,9 @@
 > 아이폰 다운로드 링크 [IPhone Download Link]()
 >
 
-- 이전      
+- [이전](https://github.com/jacob-modoo/modooGuide/tree/master/service)      
 - [**전체인덱스**](./README.md)     
-- [다음 : ?]()
+- [다음](https://github.com/jacob-modoo/modooGuide/tree/master/service/ch5_join_class/class)
 
 
 ### **#목적**
@@ -27,45 +27,41 @@
 
 모두의 클래스 애플리케이션 메인화면은
 
-- Top - 클래스개설, 참여하고 있는 클래스(Circle Icon)
-- Search - 클래스나 코치 찾기
-- Body - 클래스
-- Banner - 광고
+- [Top - 클래스개설, 참여하고 있는 클래스(Circle 아이콘)](#1.Top)
+- [Search - 클래스나 코치 찾기](#2.Search)
+- [Body - 클래스](#3.Body)
+- [Banner - 광고](#4.Banner)
 
 로 나누어져 있습니다.
 
 
-#### 1. Top
+#### 1.Top
 ![App Home Screen](./img/home1.jpg)
 
-- 클래스 개설
-   > 클래스를 개설할수 있습니다.
--  Circle Icon
-   > 자신이 참여하고 있는 강의들이 표시 됩니다.
-
-#### 2. Search - 클래스나 코치를 검색해보세요 영역
+- 클래스 개설 - 클래스를 개설할수 있습니다.
+-  Circle 아이콘 - 자신이 참여하고 있는 강의들이 표시 됩니다.
+   - 아이콘 클릭시 강의화면으로 이동
+#### 2.Search
 
 ![App Home Search Screen1](./img/search/search1.jpg)
-- 클래스나 코치를 
-  > 클래스나 코치이름으로 클래스를 찾을수 있습니다.
+- [Top](#1.Top)의 `클래스나 코치를 검색해보세요` 클릭시 현재 화면이 표시됩니다.
 
-#### 3. Body
+#### 3.Body
 
 ![App Home Body Screen1](./img/home2.jpg)
 <!--![App Home Body Screen2](./img/home3.jpg)-->
 <!--![App Home Body Screen3](./img/home4.jpg)-->
 <!--![App Home Body Screen4](./img/home5.jpg)-->
 - 클래스 리스트를 유형별로 보여준다
-  > 실시간 인기 클래스 리스트
-  > 알림신청하면 가격이 와르르르
-  > 공짜 좋아하다간 돈 아낀다! 무료 클래스
-  > 1:1 트래이닝 카테고리 모음
+  - 실시간 인기 클래스 리스트
+  - 알림신청하면 가격이 와르르르
+  - 공짜 좋아하다간 돈 아낀다! 무료 클래스
+  - 1:1 트래이닝 카테고리 모음
    
-#### 4. Banner
+#### 4.Banner
 
 ![App Home Banner Screen](./img/home_banner.jpg)
-- 광고할수 있는 배너 영역 입니다.
-  > 모두의 클래스 이벤트 및 광고 영역
+- 광고할수 있는 배너 영역 입니다 - 모두의 클래스 이벤트 및 광고 영역
 
 ### **#디자인**
 업데이트 일시 : 2019.07.29
@@ -92,7 +88,3 @@
 - 디자인 - [@신미소](https://github.com/meeso-modoo)
 - 서버 API - [@안지환](https://github.com/jihwan-modoo)
 - 앱 개발 - [@이대준](https://github.com/DaeJunLee) [@조현민](https://github.com/hyunmin-modoo)
-
-
-
-  
