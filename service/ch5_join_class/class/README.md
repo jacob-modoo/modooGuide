@@ -42,7 +42,7 @@
 
 - [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
 
-- `@신미소`  코멘트
+- [@신미소](https://github.com/meeso-modoo)  코멘트
 
   > 디자이너의 코멘트
 
@@ -56,10 +56,10 @@
 
 ### **#작업자**
 
-- 기획 - `@김대형` `@신민수`
-- 디자인 - `@신미소`
-- 서버 API - `@안지환`
-- 프론트개발 - `@이대준`  + `@조현민`
+- 기획 - [@김대형](https://github.com/jacob-modoo) [@신민수](https://github.com/minsoo-modoo)
+- 디자인 - [@신미소](https://github.com/meeso-modoo)
+- 서버 API - [@안지환](https://github.com/jihwan-modoo)
+- 앱 개발 - [@이대준](https://github.com/DaeJunLee) [@조현민](https://github.com/hyunmin-modoo)
 
 
   

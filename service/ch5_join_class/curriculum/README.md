@@ -42,7 +42,7 @@
 
 - [디자인 이미지(png) *update: 0724](https://drive.google.com/open?id=1aljDi_y2EvaTIFgsISmj-CQS2iBAxazW)
 
-- `@신미소`  코멘트
+- [@신미소](https://github.com/meeso-modoo)  코멘트
 
      > 사용자의 수업진행사항을 한눈에 보여주기 위해 스테이트별 컬러 차이를 두어 활성/비활성과 구분을 명확하게 한다.
 
@@ -55,10 +55,10 @@
 
 ### **#작업자**
 
-- 기획 - `@김대형` `@신민수`
-- 디자인 - `@신미소`
-- 서버 API - `@안지환`
-- 프론트개발 - `@이대준`  + `@조현민`
+- 기획 - [@김대형](https://github.com/jacob-modoo) [@신민수](https://github.com/minsoo-modoo)
+- 디자인 - [@신미소](https://github.com/meeso-modoo)
+- 서버 API - [@안지환](https://github.com/jihwan-modoo)
+- 앱 개발 - [@이대준](https://github.com/DaeJunLee) [@조현민](https://github.com/hyunmin-modoo)
 
 
   
