@@ -27,15 +27,15 @@
 
 모두의 클래스 애플리케이션 메인화면은
 
-- [Top - 클래스개설, 참여하고 있는 클래스(Circle 아이콘)](#Top)
+- [Top - 클래스개설, 참여하고 있는 클래스(Circle 아이콘)](#1Top)
 - [Search - 클래스나 코치 찾기](#2Search)
-- [Body - 클래스](#3.Body)
-- [Banner - 광고](#4.Banner)
+- [Body - 클래스](#3Body)
+- [Banner - 광고](#4Banner)
 
 로 나누어져 있습니다.
 
 
-#### Top
+#### 1.Top
 ![App Home Screen](./img/home1.jpg)
 
 - 클래스 개설 - 클래스를 개설할수 있습니다.
