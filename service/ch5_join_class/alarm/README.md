@@ -1,6 +1,10 @@
 # 사용자단 - Alarm
 
-> 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
+> 모두의 트레이닝 [실제 서비스 화면](https://www.modooclass.net)
+> 
+> 안드로이드 다운로드 링크 [Android Download Link](https://play.google.com/store/apps/details?id=com.modooclass)
+> 
+> 아이폰 다운로드 링크 [IPhone Download Link](https://itunes.apple.com/app/id1464482964)
 >
 > [디자인화면 - 링크필요]() 
 
@@ -24,7 +28,7 @@
 
 
 ### **#구성 - #기능**
-업데이트 일시 : 2019.07.30
+업데이트 일시 : 2019.07.31
 
 작성자 : [@조현민](https://github.com/johyunmin)
 
@@ -34,6 +38,7 @@
 - [Body - 알리 리스트](#2.Body)
 
 로 나누어져 있습니다.
+
 ![App Alarm Screen1](../img/Alarm1.png)
 
 #### 1.Top
@@ -51,6 +56,7 @@
   - push_type 5 -> 홈화면으로 이동
   - push_type 6 -> 프로필화면으로 이동
   - push_type 7 -> 알림화면으로 이동
+  - push_type 8 -> 메세지화면으로 이동
    
 
 ### **#디자인**
