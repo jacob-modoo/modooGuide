@@ -1,76 +1,136 @@
-# 모두의 클래스 항해일지
+# 사용자단 - 클래스 커리큘럼 (클래스 개설 2단계)
 
-> **노하우** 를 배우고 나누는 클래스 마켓
+> 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net/class/user/class_curriculum)
 >
-> 언제 어디서나 함께 하는 즐거움. 
+> [디자인화면 - 링크필요]() 
 
 
 
-![](image/logo1024.png)
+- 이전      
+- [**전체인덱스**](../README.md)     
+- [다음 : ?]()
 
 
 
+### **#목적**
+
+1. 
 
 
 
+### #핵심지표
 
-## 모두의 클래스 서비스 개요 
-
->  모두의 클래스 서비스는 누구나 코치가 되어 온라인 클래스를 열어 수익을 가져 갈 수 있는 플랫폼형 웹 / 앱 서비스로 크게 아래 7개 장으로 구성되어 있다.
->
-> 각 장은 화면단 `구성|기능|디자인|작업자 `  로  되어 있으며, 각 장은 추가 개선사항과  Configuration 문서로 연결 되어 관리한다. 
-
-
-
-
-
-### 1장. 사용자단  `web`
-
-######  사용자단은 웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다.  
-
- 
-
-
-
-- [로그인 / 회원가입 / 비번 찾기 : 기획문서](modooclass/home/login)   =>  [*서비스화면단이동*](https://www.modooclass.net/modoo/login)
-- [홈 화면 : 기획문서](modooclass/home)  => [*서비스화면단이동*](https://www.modooclass.net/)
-- 
 - 
 
-### 2장. 마이페이지  `web` 
+
+
+### **#구성 - #기능**
+```App: WebView```
+
+1. 헤더 
+
+   - 뒤로가기 버튼
+
+     > Web: 이전 페이지로 이동<br />
+     > App: 화면 닫기 (나가기)
+
+   - 로고
+
+     > Web: 모클 메인 이동<br />
+     > App: 앱 메인 이동
+
+   - 프로필 이미지
+
+     > Web: 마이페이지 이동<br />
+     > App: 앱 마이페이지 화면 이동
+
+
+2. 가이드
+
+   - 호기심을 자극하는 제목을 붙여주세요.
+    
+     > 클래스명 입력시 자동 변경 처리
+
+
+3. 정보 입출력 화면 (n장 - n강 추가 생성 가능)
+
+   - 제목 (필수)
+
+     > 20자 제한<br />
+     > 미리보기 영상 공개 여부 체크
+
+   - 수업내용 (필수)
+
+     > Quill.js 사용.<br />
+     > Quill.js Editor 툴바 옵션: bold, sub, blockquote, list-order, list-bullet, clean, image upload<br />
+     > iOS 카메라 촬영 후 업로드시, 이미지가 회전이 되는 현상 발생으로 load-image.all.min.js 사용.
+
+   - 이미지 (필수)
+
+     > 1개<br />
+     > iOS 카메라 촬영 후 업로드시, 이미지가 회전이 되는 현상 발생으로 load-image.all.min.js 사용.
+
+   - 영상 파일 (필수)
+   
+     > 1개<br />
+
+   - 미션 (필수)
+
+     > 미션 여부 체크
+     > 미션있을시, Stamp와 Editor 활성화
+     > Stamp 최대 3개 선택가능
+     > Quill.js 사용.<br />
+     > Quill.js Editor 툴바 옵션: bold, sub, blockquote, list-order, list-bullet, clean, image upload<br />
+     > iOS 카메라 촬영 후 업로드시, 이미지가 회전이 되는 현상 발생으로 load-image.all.min.js 사용.
+    
+
+
+4. 하단
+
+    - [미리보기](www.modooclass.net/class/user/preview), 무료개설, [유료개설](www.modooclass.net/class/user/class_package)<br />
+    - 무료개설시 [패키지 및 가격](www.modooclass.net/class/user/class_package) 생략 후, 클래스 오픈.
 
 
 
-### 3장. 클래스 개설  `web`
+6. 푸터
 
-노하우 를 배우고 나누는 클래스 마켓
+    - Web
 
-### 4장. 클래스 관리  `web`
+      > [이용약관](www.modooclass.net/app/customer/agreement), [개인정보취급방침](www.modooclass.net/app/customer/policy), [FAQ](www.modooclass.net/modoo/faq), 사업자정보<br />
+      > 소셜정보: [페이스북](www.facebook.com/modooclass/), [인스타그램](https://www.instagram.com/modooclass/), [유튜브](https://www.youtube.com/channel/UCQ9WEzhuxE4UR69Ku4kQVSA), [블로그](https://blog.naver.com/enfit), 카카오톡 상담
 
+    - App
 
-
-### 5장. 클래스 참여  `app`
-
-
-
- ### 6장. CMS 최종 관리자단  `web`
+      > hide
 
 
+8. 사이드 스크롤 픽스 메뉴
 
-### 7장. Configuration  `git-text`
+    - Web: 카카오톡 상담 버튼, move ScollTop 버튼<br />
+    - App: hide
 
 
 
-##  Contributor 
 
-#### [서비스 제작 참여]
+### **#디자인**
 
-- 기획 => `@김대형` `@신민수`
+- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
 
-- 디자인 => `@김보라` `@신미소`
+- `@김보라`  코멘트
 
-- 개발 => `@안지환` `@노육민` `@박정희` `@김혜진` `@이대준` `@조현민`
+  > 디자이너의 코멘트
 
-- 제품 참여 => `@강승권` `@김재환` `@콘텐츠팀` `@코치진` `@사제이기하` `@대교인베스트김재엽`
 
-  
+
+### #개선사항
+
+- [ ] 
+
+
+
+### **#작업자**
+
+- 기획 - `@김대형` `@신민수`
+- 디자인 - `@김보라`
+- 서버 API - `@안지환`
+- 프론트개발 - `@박정희`  + `@노육민`
