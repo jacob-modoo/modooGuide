@@ -36,11 +36,11 @@
      - 사용자 이미지 클릭시 [MyPage](../ch2_my_class)로 이동 으로 이동
 2. 상단영역
    - 클래스 관리 탭
-      - 커뮤니티
-      - 커리큘럼
-      - 리뷰
-      - 수강생
-      - 수익
+      - [커뮤니티](./community/README.md)
+      - [커리큘럼](./curriculum/README.md)
+      - [리뷰](./review/README.md)
+      - [수강생](./member/README.md)
+      - [수익](./profit/README.md)`미구현`
    - 클래스 개설하기
      - [클래스 개요](https://www.modooclass.net/class/user/class_management/727)
    
