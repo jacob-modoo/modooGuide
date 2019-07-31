@@ -28,7 +28,7 @@
 모두의 클래스 애플리케이션 메인화면은
 
 - [Top - 클래스개설, 참여하고 있는 클래스(Circle 아이콘)](#Top)
-- [Search - 클래스나 코치 찾기](#2.Search)
+- [Search - 클래스나 코치 찾기](#2Search)
 - [Body - 클래스](#3.Body)
 - [Banner - 광고](#4.Banner)
 
