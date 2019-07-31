@@ -1,6 +1,10 @@
 # 사용자단 - Chatting
 
-> 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
+> 모두의 트레이닝 [실제 서비스 화면](https://www.modooclass.net)
+> 
+> 안드로이드 다운로드 링크 [Android Download Link](https://play.google.com/store/apps/details?id=com.modooclass)
+> 
+> 아이폰 다운로드 링크 [IPhone Download Link](https://itunes.apple.com/app/id1464482964)
 >
 > [디자인화면 - 링크필요]() 
 
@@ -25,13 +29,26 @@
 
 ### **#구성 - #기능**
 
-1. 헤더 
+업데이트 일시 : 2019.07.31
 
-   - 로고
+작성자 : [@조현민](https://github.com/johyunmin)
 
-     > 클릭시 홈링크 연결 - 앱화면에서 로그 클릭시 앱 홈으로 이동
+모두의 클래스 애플리케이션 채팅 화면은
 
-2. 
+- [Top - 채팅 준비중](#1.Top)
+- [Body - 채팅 준비중](#2.Body)
+
+로 나누어져 있습니다.
+
+![App Chatting Screen1](../img/chatting1.jpg)
+
+#### 1.Top
+- 준비 중입니다.
+
+#### 2.Body
+
+- 준비 중입니다.
+
 
 
 
