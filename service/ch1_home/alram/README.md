@@ -1,4 +1,4 @@
-# 사용자단 - 홈>알림페이지
+# 사용자단 - 알림페이지
 
 > [실제 서비스 화면](https://www.modooclass.net/modoo/notify_discount)  
 > [디자인화면 - 링크필요]() 
