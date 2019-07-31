@@ -1,6 +1,6 @@
 # 클래스 관리 - 커리큘럼
 
-> 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/curriculum)
+> 클래스 관리 - 커리큘럼 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/curriculum)
 >
 > [디자인화면 - 링크필요]() 
 
