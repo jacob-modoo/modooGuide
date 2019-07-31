@@ -29,7 +29,7 @@
 
 ## App Part
 ### 앱 푸시 타입
-업데이트 일시 : _2019_07_30_
+업데이트 일시 : _2019_07_31_
 
 작성자 : @이대준
 
@@ -43,6 +43,7 @@
 5 : 알림리스트 클릭 - [홈-bottomMenu]
 6 : 알림리스트 클릭 - [프로필-bottomMenu]
 7 : 알림리스트 클릭 - [알림-bottomMenu]
+8 : 알림리스트 클릭 - [메세지-bottomMenu]
 ```
 
 > Background
@@ -55,21 +56,27 @@
 5 : 디바이스 알림 클릭 - [알림-bottomMenu]알림리스트
 6 : 디바이스 알림 클릭 - [나의프로필-bottomMenu]
 7 : 디바이스 알림 클릭 - [알림-bottomMenu]
+8 : 디바이스 알림 클릭 - [웹뷰]메인화면 - 웹앱
 ```
 
 ### 앱 처리 사항 
 (@이대준,@조현민)
 
 > 0. CHAT 메뉴 클릭시, 앱에서 스크립트 호출 ( 새로고침 활용목적 : AppActive(); )
-> 1. 회원 프로필 (앱)에서 "메세지 보내기" 아이콘 클릭시 웹뷰(new) "/class/chat/유저아이디" 주소
+> 1. 회원 프로필 (앱)에서 "메세지 보내기" 아이콘 클릭시 웹뷰(new) "https://chat.modooclass.net/class/chat/유저아이디" 주소
 > 창 닫을 경우, 해당 창만 닫음
-> 2. push_type 8 : 새로운 메세지 알림, 클릭시 웹뷰(new) 주소는 push_url 정의 "/class/chat/활성대화방ID"
+> 2. push_type 8 : 새로운 메세지 알림, 클릭시 웹뷰(new) 주소는 push_url 정의 "https://chat.modooclass.net/class/chat/활성대화방ID"
 ````comment
 # 채팅화면에서는 푸쉬 메세지(CHAT내용에 한함) 동작안함
 # 활성대화방ID는 친구프로필에서 메세지보내기 아이콘 터치시 "친구ID"로 설정되며,
  그룹대화방인경우 "G그룹ID"로 설정됨
 ````
 
+> 앱 브리지
+```
+ios : webkit.messageHandlers.goToChatDetail.postMessage('room_id')
+android : window.android.goToChatDetail(String room_id)
+```
 
 ## 작업자
 
