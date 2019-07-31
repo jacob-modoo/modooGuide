@@ -1,4 +1,4 @@
-# 클래스 관리 - 수강생
+# 클래스 관리 - 수익
 
 > 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/attendee)
 >
@@ -7,8 +7,7 @@
 
 
 - [이전](../)      
-- [**전체인덱스**](../README.md)     
-- [다음 : 수익](../profit/README.md)
+- [**전체인덱스**](../README.md)
 
 
 
@@ -27,31 +26,10 @@
 ### **#구성 - #기능**
 
 1. 헤더 
-     - 뒤로 이동 버튼 
-         - history back
-     - 클래스 명[짧은 이름]
-     - 사용자 이미지 클릭시 [MyPage](../ch2_my_class)로 이동 으로 이동
+    
 2. 상단영역
-   - 클래스 관리 탭
-      - [커뮤니티](../community/README.md)
-      - [커리큘럼](../curriculum/README.md)
-      - [리뷰](../review/README.md)
-      - [수강생](../member/README.md)
-      - [수익](../profit/README.md)`미구현`
-   - 회원 닉네임 검색
-   
-3. 수강생 리스트
-   - 상단영역
-     - 수강생 인원수
-     - 최신등록순/D-Day/수강종료 filter
-   - 수강생 정보 
-     - 수강생 이미지
-          - [수강생의 Profile](../../ch2_my_class/friend) 화면으로 이동
-    - 수행률
-    - 동료일
-    - 메세지`구현중`
-    - 결제 날짜
-   
+  
+3. container
 ### **#디자인**
 
 - [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
