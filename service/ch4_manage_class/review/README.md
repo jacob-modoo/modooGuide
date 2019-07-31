@@ -1,6 +1,6 @@
 # 클래스 관리 - 리뷰
 
-> 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/review)
+> 클래스 관리 - 리뷰 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/review)
 >
 > [디자인화면 - 링크필요]() 
 
