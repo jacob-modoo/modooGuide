@@ -135,7 +135,7 @@
 - [클래스개요](service/ch3_open_class/info) => [`web`](https://www.modooclass.net/class/user/class_create) 
 - [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/class_curriculum) 
 - [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/class_package) 
-- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/class_complete) 
 - [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 - [클래스개설 - configuration](service/ch3_open_class/config)
 
