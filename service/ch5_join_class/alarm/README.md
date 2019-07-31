@@ -39,7 +39,7 @@
 
 로 나누어져 있습니다.
 
-![App Alarm Screen1](../img/Alarm1.png)
+![App Alarm Screen1](../img/alarm/alarm.jpg)
 
 #### 1.Top
 - 전체 읽기 버튼을 통한 알림 읽음 처리
