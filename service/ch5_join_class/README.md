@@ -8,8 +8,8 @@
 >
 
 - [이전](https://github.com/jacob-modoo/modooGuide/tree/master/service)      
-- [**전체인덱스**](./README.md)     
-- [다음](https://github.com/jacob-modoo/modooGuide/tree/master/service/ch5_join_class/class)
+- [**전체인덱스**](../class/README.md)     
+- [다음 : 강의화면](../ch5_join_class/class/README.md)
 
 
 ### **#목적**
@@ -79,7 +79,6 @@
 ### #개선사항
 
 - [ ] 예) 로그인에 단일 버튼 보다는 다중소셜로그인을 해주세요. -> @김대형
-
 
 
 ### **#작업자**
