@@ -11,7 +11,7 @@
 
 - 이전      
 - [**메인인덱스**](../README.md)     
-- [다음 : 프로필]( ../cheer/README.md)
+- [다음 : 응원하기]( ../cheer/README.md)
 
 
 
