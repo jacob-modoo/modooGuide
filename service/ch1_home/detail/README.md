@@ -1,6 +1,7 @@
 # 사용자단 - 상세페이지
 
 > [실제 서비스 화면 - 김재환코치](https://www.modooclass.net/class/classDetail/483)
+> [디자인화면 - 링크필요]() 
 
 <br><br>
 
