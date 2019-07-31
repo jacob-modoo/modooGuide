@@ -27,53 +27,52 @@
 
 
 ### **#구성 - #기능**
-```App에서는 본 페이지에 접근할 수 없습니다.```
+```App: WebView```
 
 1. 헤더 
 
-   - 로고
+    - 로고
 
-     > Web: 모클 메인 이동
+      > Web: 모클 메인 이동<br />
+      > App: 앱 메인 이동
 
-   - 뒤로가기 버튼
+    - 뒤로가기 버튼
 
-     > Web: 이전 페이지로 이동
+      > Web: 이전 페이지로 이동<br />
+      > App: 화면 닫기 (나가기)
 
 2. 비쥬얼 배너
 
-   - Web
-
-     > 코치 정보가 등록되어 있지 않은 사용자: [코치 신청 페이지 이동](www.modooclass.net/class/user/coach_propose)
-     > 코치 정보가 등록되어 있는 사용자: [클래스 개요 페이지 이동](www.modooclass.net/class/user/class_create)
+    - 코치 정보가 등록되어 있지 않은 사용자: [코치 신청 페이지 이동](www.modooclass.net/class/user/coach_propose)
+    - 코치 정보가 등록되어 있는 사용자: [클래스 개요 페이지 이동](www.modooclass.net/class/user/class_create)
 
 3. 인트로
 
-   - Web
-
-     > 모클과 함께한 인원, 클래스 총 매출액, 현재 개설된 클래스 표기
-     > 사용자에게 클래스 이점 강조
+    - 모클과 함께한 인원, 클래스 총 매출액, 현재 개설된 클래스 표기
+    - 사용자에게 클래스 이점 강조
 
 4. 클래스 개설 방법
 
-   - Web
-
-     > 클래스 개설 방법을 5가지로 단계적로 표기
+    - 클래스 개설 방법을 5가지로 단계적로 표기
      
 5. 하단 배너
 
-   - Web
+    - 클래스 개설 유도 강조 및 이동 버튼 (무료로 온라인 클래스 개설하기)
+    - '좋아하는 일을 하면서 수익을 가져가세요'
 
-     > 클래스 개설 유도 강조 및 이동 버튼 (무료로 온라인 클래스 개설하기)
-     > '좋아하는 일을 하면서 수익을 가져가세요'
-        - 코치 정보가 등록되어 있지 않은 사용자: [코치 신청 페이지 이동](www.modooclass.net/class/user/coach_propose)
-        - 코치 정보가 등록되어 있는 사용자: [클래스 개요 페이지 이동](www.modooclass.net/class/user/class_create)
+      > 코치 정보가 등록되어 있지 않은 사용자: [코치 신청 페이지 이동](www.modooclass.net/class/user/coach_propose)<br />
+      > 코치 정보가 등록되어 있는 사용자: [클래스 개요 페이지 이동](www.modooclass.net/class/user/class_create)
 
 6. 푸터
 
     - Web
 
       > [이용약관](www.modooclass.net/app/customer/agreement), [개인정보취급방침](www.modooclass.net/app/customer/policy), [FAQ](www.modooclass.net/modoo/faq), 사업자정보<br />
-      > 소셜정보: [페이스북](www.facebook.com/모두의-트레이닝-104879130045273/), [인스타그램](https://www.instagram.com/modootraining/), [유튜브](https://www.youtube.com/channel/UCQ9WEzhuxE4UR69Ku4kQVSA), [블로그](https://blog.naver.com/enfit), 카카오톡 상담
+      > 소셜정보: [페이스북](www.facebook.com/modooclass/), [인스타그램](https://www.instagram.com/modooclass/), [유튜브](https://www.youtube.com/channel/UCQ9WEzhuxE4UR69Ku4kQVSA), [블로그](https://blog.naver.com/enfit), 카카오톡 상담
+
+    - App
+
+      > hide
 
 
 
