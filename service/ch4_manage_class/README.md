@@ -42,7 +42,7 @@
       - [수강생](./member/README.md)
       - [수익](./profit/README.md)`미구현`
    - 클래스 개설하기
-     - [클래스 개요](https://www.modooclass.net/class/user/class_management/727)
+     - [클래스 개요](../ch3_open_class/info)
    
 
    
@@ -64,7 +64,7 @@
    + 판매중/판매종료
       - [판매중|마감임박|마감]
    + 클래스 관리
-      - [클래스 관리](https://www.modooclass.net/class/manager/course/727/community)로 이동
+      - [커뮤니티](./community/README.md)로 이동
 
 
 
