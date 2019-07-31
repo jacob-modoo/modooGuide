@@ -8,7 +8,7 @@
 
 - [이전](../)      
 - [**전체인덱스**](../README.md)     
-- [다음 : 커뮤니티](./curriculum/README.md)
+- [다음 : 커뮤니티](../curriculum/README.md)
 
 
 
@@ -33,11 +33,11 @@
      - 사용자 이미지 클릭시 [MyPage](../ch2_my_class)로 이동 으로 이동
 2. 상단영역
    - 클래스 관리 탭
-      - [커뮤니티](./community/README.md)
-      - [커리큘럼](./curriculum/README.md)
-      - [리뷰](./review/README.md)
-      - [수강생](./member/README.md)
-      - [수익](./profit/README.md)`미구현`
+      - [커뮤니티](../community/README.md)
+      - [커리큘럼](../curriculum/README.md)
+      - [리뷰](../review/README.md)
+      - [수강생](../member/README.md)
+      - [수익](../profit/README.md)`미구현`
    - 클래스 개설하기
      - 커뮤니티 글남기기
       - 공지사항으로 올리기
