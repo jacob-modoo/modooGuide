@@ -8,7 +8,7 @@
 
 - [이전](../)      
 - [**전체인덱스**](../README.md)     
-- [다음 : 커뮤니티](./review/README.md)
+- [다음 : 리뷰](./review/README.md)
 
 
 
