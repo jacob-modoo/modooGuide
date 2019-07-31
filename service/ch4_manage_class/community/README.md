@@ -1,6 +1,6 @@
-# 클래스 관리
+# 클래스 관리 - 커뮤니티
 
-> 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/list)
+> 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/community)
 >
 > [디자인화면 - 링크필요]() 
 
@@ -8,7 +8,7 @@
 
 - [이전](../)      
 - [**전체인덱스**](../README.md)     
-- [다음 : 커뮤니티](./community/README.md)
+- [다음 : 커뮤니티](./curriculum/README.md)
 
 
 
