@@ -8,8 +8,8 @@
 >
 
 - [이전](https://github.com/jacob-modoo/modooGuide/tree/master/service)      
-- [**전체인덱스**](./README.md)     
-- [다음](https://github.com/jacob-modoo/modooGuide/tree/master/service/ch5_join_class/class)
+- [**전체인덱스**](../class/README.md)     
+- [다음 : 강의화면](../ch5_join_class/class/README.md)
 
 
 ### **#목적**
@@ -27,10 +27,10 @@
 
 모두의 클래스 애플리케이션 메인화면은
 
-- [Top - 클래스개설, 참여하고 있는 클래스(Circle 아이콘)](#1.Top)
-- [Search - 클래스나 코치 찾기](#2.Search)
-- [Body - 클래스](#3.Body)
-- [Banner - 광고](#4.Banner)
+- [Top - 클래스개설, 참여하고 있는 클래스(Circle 아이콘)](#1Top)
+- [Search - 클래스나 코치 찾기](#2Search)
+- [Body - 클래스](#3Body)
+- [Banner - 광고](#4Banner)
 
 로 나누어져 있습니다.
 
@@ -72,14 +72,23 @@
 
 - [@신미소](https://github.com/meeso-modoo)  코멘트
 
-  > 디자이너의 코멘트
-
+  > **OVERVIEW**
+  >
+  > 앱상에서의 머테리얼 디자인은 사용자를 동기부여할 수 있어야 하며 미니멀한 구성을 통해 UX를 단순화하여 소통, 관계와 공유에 집중하도록 유도한다. 
+앱의 메인화면은 다양한 클래스를 보여주는 공간으로 할인, 시작일, 카테고리등 다양한 타입의 클래스를 담기위해 모듈화 시스템을 통하여 통일성있는 디자인과 일관성이있는 사용자 경험을 제공한다.
+  
+  > **COLOUR**
+  >
+  > 에너지틱하며 액티브한 브랜드 이미지를 전달하며, 플랫폼 특성을 고려한 블루계열의 컬러를 주조색으로 사용하여 팔레트를 확장해 나간다.
+  
+  > **TYPOGRAPHY**
+  >
+  > 타이틀과 본문은 각각의 OS별 시스템폰트를 사용하여 가독성을 높이고 장식성을 배제하여 컨텐츠에 집중성을 높인다.
 
 
 ### #개선사항
 
 - [ ] 예) 로그인에 단일 버튼 보다는 다중소셜로그인을 해주세요. -> @김대형
-
 
 
 ### **#작업자**

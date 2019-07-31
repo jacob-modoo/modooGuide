@@ -130,12 +130,12 @@
 
 **핵심지표 : 페이지 이탈율**
 
-- [코치가이드](service/ch3_open_class/) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [코치정보입력](service/ch3_open_class/coach) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [클래스개요](service/ch3_open_class/info) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [코치가이드](service/ch3_open_class/) => [`web`](https://www.modooclass.net/class/center) 
+- [코치정보입력](service/ch3_open_class/coach) => [`web`](https://www.modooclass.net/class/user/coach_propose) 
+- [클래스개요](service/ch3_open_class/info) => [`web`](https://www.modooclass.net/class/user/class_create) 
+- [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/class_curriculum) 
+- [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/class_package) 
+- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/class_complete) 
 - [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 - [클래스개설 - configuration](service/ch3_open_class/config)
 
@@ -154,17 +154,17 @@
 
 **핵심지표 : 리텐션 (페이지 머무르는 시간, 재방문 횟수)**
 
-- [클래스 관리 리스트](service/ch4_manage_class/) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스 관리 리스트](service/ch4_manage_class/) => [`web`](https://www.modooclass.net/class/manager/list) 
 
-- [커뮤니티](service/ch4_manage_class/community) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [커뮤니티](service/ch4_manage_class/community) => [`web`](https://www.modooclass.net/class/manager/course/468/community) 
 
-- [커리큘럼](service/ch4_manage_class/curriculum) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [커리큘럼](service/ch4_manage_class/curriculum) => [`web`](https://www.modooclass.net/class/manager/course/468/curriculum) 
 
-- [리뷰](service/ch4_manage_class/review) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [리뷰](service/ch4_manage_class/review) => [`web`](https://www.modooclass.net/class/manager/course/468/review) 
 
-- [수강생](service/ch4_manage_class/member) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [수강생](service/ch4_manage_class/member) => [`web`](https://www.modooclass.net/class/manager/course/468/attendee) 
 
-- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) `미구현 `
 
 - [추가개선 :  QA문서](service/ch4_manage_class/upgrade)
 
