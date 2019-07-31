@@ -38,11 +38,11 @@
 **[ 1. 내 정보 ]**
 - 사용자이미지 (click 프로필수정)
 - user-level
-> grade1 -  coach (@@@)  
-> grade2 -  coach (@@@)  
-> grade3 -  coach (@@@)  
-> grade4 -  coach (@@@)  
-> grade5 -  coach (@@@)  
+	> grade1 -  coach (@@@)  
+	> grade2 -  coach (@@@)  
+	> grade3 -  coach (@@@)  
+	> grade4 -  coach (@@@)  
+	> grade5 -  coach (@@@)  
 
 - 닉네임
 - 포인트
