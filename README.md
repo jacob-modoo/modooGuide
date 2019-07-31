@@ -130,11 +130,11 @@
 
 **핵심지표 : 페이지 이탈율**
 
-- [코치가이드](service/ch3_open_class/) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [코치정보입력](service/ch3_open_class/coach) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [클래스개요](service/ch3_open_class/info) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/following/140019) 
-- [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [코치가이드](service/ch3_open_class/) => [`web`](https://www.modooclass.net/class/center) 
+- [코치정보입력](service/ch3_open_class/coach) => [`web`](https://www.modooclass.net/class/user/coach_propose) 
+- [클래스개요](service/ch3_open_class/info) => [`web`](https://www.modooclass.net/class/user/class_create) 
+- [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/class_curriculum) 
+- [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/class_package) 
 - [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 - [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 - [클래스개설 - configuration](service/ch3_open_class/config)

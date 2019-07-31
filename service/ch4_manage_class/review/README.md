@@ -23,7 +23,9 @@
 - ? (방문자 대비)
 
 ### #화면
-![image](https://user-images.githubusercontent.com/53498778/62178198-0d7e9d00-b383-11e9-94bf-e2ab5ec37624.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53498778/62178198-0d7e9d00-b383-11e9-94bf-e2ab5ec37624.png" width="600px" />
+</p>
 
 ### **#구성 - #기능**
 
