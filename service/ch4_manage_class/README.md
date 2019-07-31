@@ -33,9 +33,9 @@
 1. 헤더 
      - 뒤로 이동 버튼 
         - App
-         - App의 [MyPage]()로 이동
+          - App의 [MyPage]()로 이동
         - Web
-         - history back
+          - history back
      - 클래스 명[짧은 이름]
      - 사용자 이미지 클릭시 [MyPage](../ch2_my_class)로 이동 으로 이동
 2. 상단영역
