@@ -43,6 +43,7 @@
 5 : 알림리스트 클릭 - [홈-bottomMenu]
 6 : 알림리스트 클릭 - [프로필-bottomMenu]
 7 : 알림리스트 클릭 - [알림-bottomMenu]
+8 : 알림리스트 클릭 - [메세지-bottomMenu]
 ```
 
 > Background
@@ -55,6 +56,7 @@
 5 : 디바이스 알림 클릭 - [알림-bottomMenu]알림리스트
 6 : 디바이스 알림 클릭 - [나의프로필-bottomMenu]
 7 : 디바이스 알림 클릭 - [알림-bottomMenu]
+8 : 디바이스 알림 클릭 - [웹뷰]메인화면 - 웹앱
 ```
 
 ### 앱 처리 사항 
