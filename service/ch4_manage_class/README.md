@@ -29,11 +29,11 @@
 1. 헤더 
      - 뒤로 이동 버튼 
         - App
-         > App의 MyPage로 이동
+         - App의 [MyPage]()로 이동
         - Web
-         > history back
+         - history back
      - 클래스 명[짧은 이름]
-     - 사용자 이미지 클릭시 profile화면 으로 이동
+     - 사용자 이미지 클릭시 [MyPage](../ch2_my_class)로 이동 으로 이동
 2. 상단영역
    - 클래스 관리 탭
       - 커뮤니티
@@ -42,8 +42,7 @@
       - 수강생
       - 수익
    - 클래스 개설하기
-     - 클래스 개요 
-       - [실제 서비스 화면](https://www.modooclass.net/class/user/class_management/727)
+     - [클래스 개요](https://www.modooclass.net/class/user/class_management/727)
    
 
    
@@ -65,7 +64,7 @@
    + 판매중/판매종료
       - [판매중|마감임박|마감]
    + 클래스 관리
-      - 클래스 관리로 이동 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/727/community)
+      - [클래스 관리](https://www.modooclass.net/class/manager/course/727/community)로 이동
 
 
 
