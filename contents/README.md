@@ -42,8 +42,8 @@ https://docs.google.com/spreadsheets/d/1QatMFzVcCZ5JFaph4xfUbTmavuu8f1VfwrtOb2GP
  > 1. 선결제로 status 변경
  > 1. 예약알림자에게 결제 문자 전송
  > 1. 페이스북 카탈로그 세팅(https://docs.google.com/spreadsheets/d/1FRJ81MOwJUfOEcCPtO4qBDNRuBS4qBijY7ovZR829yI/edit?usp=sharing)  
- **해당 내용까지 완료되면 스프레드 시트에 '판매중'탭으로 Status 변경**
- **해당 내용까지 완료되면 구글 캘린더에 "{클래스명} 선결제 오픈"으로 잡기**
+ **해당 내용까지 완료되면 스프레드 시트에 '판매중'탭으로 Status 변경**  
+ **해당 내용까지 완료되면 구글 캘린더에 "{클래스명} 선결제 오픈"으로 잡기**  
  
 **5) 수업 오픈 : 수강생 입장에서 코치가 의도한 클래스를 수행할 수 있는지 점검하고 첫 미션진행률을 최대한 높히는 것이 목표!**
  > 1. 수업 제목/동영상/미션 및 수업내용/시작날짜 세팅 진행
