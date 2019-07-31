@@ -8,7 +8,7 @@
 
 - [이전](../../)      
 - [**전체인덱스**](../README.md)     
-- [다음 : 수강생](../profit/README.md)
+- [다음 : 수강생](../member/README.md)
 
 
 
