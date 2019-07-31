@@ -36,8 +36,9 @@
 
    > 클래스 개설하기
      ```
-     클래스 개요 [실제 서비스 화면](https://www.modooclass.net/class/user/class_management/727)
+     클래스 개요 
      ```
+     [실제 서비스 화면](https://www.modooclass.net/class/user/class_management/727)
 3. 클래스 리스트
 
    > 클래스 현재 상태 
