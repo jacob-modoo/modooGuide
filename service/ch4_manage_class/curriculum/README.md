@@ -8,7 +8,7 @@
 
 - [이전](../)      
 - [**전체인덱스**](../README.md)     
-- [다음 : 리뷰](./review/README.md)
+- [다음 : 리뷰](../review/README.md)
 
 
 
@@ -33,12 +33,12 @@
      - 사용자 이미지 클릭시 [MyPage](../ch2_my_class)로 이동 으로 이동
 2. 상단영역
    - 클래스 관리 탭
-      - [커뮤니티](./community/README.md)
-      - [커리큘럼](./curriculum/README.md)
-      - [리뷰](./review/README.md)
-      - [수강생](./member/README.md)
-      - [수익](./profit/README.md)`미구현`
-   - [커리큘럼 수정하기](../ch3_open_class/curriculum)
+      - [커뮤니티](../community/README.md)
+      - [커리큘럼](../curriculum/README.md)
+      - [리뷰](../review/README.md)
+      - [수강생](../member/README.md)
+      - [수익](../profit/README.md)`미구현`
+   - [커리큘럼 수정하기](../../ch3_open_class/curriculum)
    
 3. 커리큘럼 리스트
    - 커리큘럼 정보 
