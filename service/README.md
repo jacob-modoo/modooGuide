@@ -77,7 +77,7 @@
 7. [알림](ch5_join_class/alarm/)
 8. [프로필](ch5_join_class/profile/)
 9. [QA문서](ch5_join_class/)
-10. [config](ch5_join_class/)
+10. [setting](ch5_join_class/setting/)
 
 
 
