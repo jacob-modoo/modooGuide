@@ -1,9 +1,12 @@
 # 사용자단 - Curriculum(강의화면)
 
-> 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
+> 모두의 트레이닝 [실제 서비스 화면](https://www.modooclass.net)
+> 
+> 안드로이드 다운로드 링크 [Android Download Link](https://play.google.com/store/apps/details?id=com.modooclass)
+> 
+> 아이폰 다운로드 링크 [IPhone Download Link](https://itunes.apple.com/app/id1464482964)
 >
 > [디자인화면 - 링크필요]() 
-
 
 
 - 이전      
@@ -26,16 +29,34 @@
 
 ### **#구성 - #기능**
 
-1. 헤더 
+업데이트 일시 : 2019.07.31
 
-   - 로고
+작성자 : [@조현민](https://github.com/johyunmin)
 
-     > 클릭시 홈링크 연결 - 앱화면에서 로그 클릭시 앱 홈으로 이동
+모두의 클래스 애플리케이션 알림 화면은
 
-2. 
+- [Top - 동영상 재생](#1.Top)
+- [Menu - 강의 메뉴](#2.Menu)
+- [Body - 강의 커리큘럼 정보](#3.Body)
 
+로 나누어져 있습니다.
 
+![App Alarm Screen1](../img/curriculum/curriculum1.jpg)
 
+#### 1.Top
+- 영상이 재생됩니다
+
+#### 2.Menu
+- 메뉴를 선택해서 영상은 재생되고 있지만 다른 화면을 볼수 있습니다. 단 커뮤니티를 클릭하면 영상이 일시정지 합니다.영상이 재생됩니다
+
+#### 2.Body
+
+![App Alarm Screen1](../img/curriculum/curriculum2.jpg)
+
+- 1장의 화살표를 클릭하게되면 그 안에 있느 각 강의들이 펼쳐집니다.
+- 수강중인 강의의 장이 펼쳐집니다. 
+- 각 강의를 누르면 그 강의의 정보와 영상으로 변경됩니다.
+- 무료로 진행중인 클래스인 경우 클래스 나가기라는 버튼이 보이며 강의를 나갈수 있습니다.
 
 
 ### **#디자인**
