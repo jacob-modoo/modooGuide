@@ -1,6 +1,6 @@
 # 클래스 관리 - 수익
 
-> 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/attendee)
+> 클래스 관리 [실제 서비스 화면]()`미구현`
 >
 > [디자인화면 - 링크필요]() 
 
