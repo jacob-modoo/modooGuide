@@ -164,7 +164,7 @@
 
 - [수강생](service/ch4_manage_class/member) => [`web`](https://www.modooclass.net/class/manager/course/468/attendee) 
 
-- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) `미`
+- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) `미구현 `
 
 - [추가개선 :  QA문서](service/ch4_manage_class/upgrade)
 
