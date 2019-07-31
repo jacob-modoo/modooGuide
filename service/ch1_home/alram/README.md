@@ -2,6 +2,9 @@
 
 > [실제 서비스 화면](https://www.modooclass.net/modoo/notify_discount)  
 > [디자인화면 - 링크필요]() 
+>
+> 업데이트 일시 : 2019.07.31
+> 작성자 : 김혜진
 
 <br><br>
 
