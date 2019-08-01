@@ -1,7 +1,6 @@
-# 사용자단 - 포인트/결제 내역
+# 사용자단 - 내가남긴리뷰
 
-> [실제 서비스 화면 - 포인트](https://www.modooclass.net/class/user/point)  
-> [실제 서비스 화면 - 결제](https://www.modooclass.net/class/user/payment)  
+> [실제 서비스 화면](https://www.modooclass.net/class/user/review)  
 > [디자인화면 - 링크필요]() 
 
 <br><br>
@@ -21,7 +20,7 @@
 #### 1.Top 
 
 - 뒤로가기
-- Title : 포인트내역
+- Title : 리뷰관리
 
 #### 2.Body
 
