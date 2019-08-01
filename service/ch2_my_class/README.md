@@ -39,10 +39,10 @@
 - 사용자이미지 (click  -> 프로필수정 이동)
 - user-level `미정`
 	> grade1 -  Coach (@@@)  
-	> grade2 -  ?
+	> grade2 -  ?  
 	> grade3 -  Pro Coach (@@@)  
-	> grade4 -  ?
-	> grade5 -  ?
+	> grade4 -  ?  
+	> grade5 -  ?  
 
 - 닉네임
 	> 소셜ID 로 시작하는 경우(닉네임 데이터 없는 경우) "닉네임 입력하기" 로 보여지도록 (click  -> 프로필수정 이동)  
