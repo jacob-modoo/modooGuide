@@ -35,7 +35,7 @@
 
 **2.Body**  
 
-**[ 1. 내 정보 ]**
+**2-1) 내 정보**
 - 사용자이미지 (click  -> 프로필수정 이동)
 - user-level `미정`
 	> grade1 -  Coach (@@@)  
@@ -59,9 +59,9 @@
 	> 1:1클래스를 참여하고 있는 경우에만 노출
 	> 기존 모트홈페이지에서 운동하러가기 화면으로 보여짐 [/modoo/user/courses](https://www.modooclass.net/modoo/user/courses)
 
-**[[ 2. 팔로워/팔로잉 ]](https://github.com/jacob-modoo/modooGuide/blob/master/service/ch2_my_class/follow/README.md)**
+**[2-2) 팔로워/팔로잉](https://github.com/jacob-modoo/modooGuide/blob/master/service/ch2_my_class/follow/README.md)**
 
-**[ 3. 카드뷰 리스팅 ]**
+**2-3) 카드뷰 리스팅**
 > 해당 클래스가 존재 할 경우에만 노출
 
 - 최근 본 클래스 `추가 예정`
