@@ -60,12 +60,12 @@
 
 
 ### **#디자인**
+작성자 : [@신미소](https://github.com/meeso-modoo)
 
 - [디자인 이미지(Zeplin) *update:0801](https://app.zeplin.io/project/5d414079bfc64e0d78ff6434/dashboard?seid=5d42672bf2a18c2bc9216c74)
 
-- [@신미소](https://github.com/meeso-modoo)  코멘트
-
-     > 사용자의 수업진행사항을 한눈에 보여주기 위해 스테이트별 컬러 차이를 두어 활성/비활성과 구분을 명확하게 한다.
+- 사용자의 수업진행사항을 한눈에 보여주기 위해 스테이트별 컬러 차이를 두어 활성/비활성과 구분을 명확하게 한다.
+    
 
 
 ### #개선사항
