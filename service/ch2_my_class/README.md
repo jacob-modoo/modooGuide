@@ -59,7 +59,7 @@
 	> 1:1클래스를 참여하고 있는 경우에만 노출
 	> 기존 모트홈페이지에서 운동하러가기 화면으로 보여짐 [/modoo/user/courses](https://www.modooclass.net/modoo/user/courses)
 
-**[2-2) 팔로워/팔로잉](/follow/)**
+**[2-2) 팔로워/팔로잉](./follow/)**
 
 **2-3) 카드뷰 리스팅**
 > 해당 클래스가 존재 할 경우에만 노출
