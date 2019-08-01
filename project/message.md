@@ -73,9 +73,18 @@
 ````
 
 > 앱 브리지
+
+Chat 상세 화면 이동
 ```
 ios : webkit.messageHandlers.goToChatDetail.postMessage('room_id')
 android : window.android.goToChatDetail(String room_id)
+```
+
+외부 브라우저 호출
+```
+ios :
+android : window.android.outLinkForBrowser(String url)
+
 ```
 
 ## 작업자

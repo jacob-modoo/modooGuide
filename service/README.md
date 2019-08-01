@@ -27,16 +27,16 @@
 ## 2장 마이페이지
 
 1. [마이페이지](ch2_my_class/)
-2. [[팔로워/팔로잉](ch2_my_class/follow)
+2. [팔로워/팔로잉](ch2_my_class/follow)
 3. [친구페이지](ch2_my_class/friend)
 4. [프로필수정](ch2_my_class/edit)
 5. [포인트내역 | 결제내역](ch2_my_class/point)
 6. [내가남긴리뷰](ch2_my_class/review)
-7. [정산(기획 미완료)](ch2_my_class/)
+7. 정산(기획 미완료)
 8. [이벤트 | 문의하기 | 자주묻는질문)](ch2_my_class/)
 9. [이용약관 | 개인정보처리방침](ch2_my_class/)
-10. [QA문서](ch2_my_class/upgrade)
-11. [config](ch2_my_class/config)
+10. QA문서
+11. config
 
 
 
