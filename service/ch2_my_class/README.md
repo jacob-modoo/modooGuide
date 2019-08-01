@@ -37,7 +37,7 @@
 
 **[ 1. 내 정보 ]**
 - 사용자이미지 (click  -> 프로필수정 이동)
-- user-level <span style="background: #ff5151; color: white">미정</span>
+- user-level `미정`
 	> grade1 -  Coach (@@@)  
 	> grade2 -  ?
 	> grade3 -  Pro Coach (@@@)  
@@ -63,9 +63,9 @@
 
 - 팔로워/팔로잉 tab
 - 검색 추가 예정
-- 추천 멤버 <span style="background: #ff5151; color: white">추가 예정</span>
+- 추천 멤버 `추가 예정`
 	 > 리스팅 기준 : 20명 보여주기
-	 > 무작위로 리스트 -> 추후 함께 아는 친구가 많은 순으로 <span style="background: #ff5151; color: white">예정</span>` [참고](https://github.com/jacob-modoo/modooGuide/issues/62#issuecomment-517112505)
+	 > 무작위로 리스트 -> 추후 함께 아는 친구가 많은 순으로 `예정` [참고](https://github.com/jacob-modoo/modooGuide/issues/62#issuecomment-517112505)
 
 - 팔로잉/팔로워 리스트
 	> 사용자이미지 | 닉네임 | 팔로잉/취소 버튼
@@ -73,7 +73,7 @@
 **[ 3. 카드뷰 리스팅 ]**
 > 해당 클래스가 존재 할 경우에만 노출
 
-- 최근 본 클래스 <span style="background: #ff5151; color: white">추가 예정</span>
+- 최근 본 클래스 `추가 예정`
 	> 클래스 대표이미지 | 긴제목 | 클래스 타입별 - 참여시점· 가격  
 	> 최근 10개만 노출  
 
