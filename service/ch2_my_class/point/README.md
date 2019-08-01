@@ -1,4 +1,4 @@
-# 사용자단 - 포인트내역
+# 사용자단 - 포인트/결제내역
 
 > [실제 서비스 화면 ](https://www.modooclass.net/class/user/profile)  
 > [디자인화면 - 링크필요]() 
