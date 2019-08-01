@@ -1,7 +1,7 @@
 # 사용자단 - 포인트/결제 내역
 
-> [실제 서비스 화면 - 포인트](https://www.modooclass.net/class/user/point)  
-> [실제 서비스 화면 - 결제](https://www.modooclass.net/class/user/payment)
+> [실제 서비스 화면 - 포인트](https://www.modooclass.net/class/user/point)<br />
+> [실제 서비스 화면 - 결제](https://www.modooclass.net/class/user/payment)<br />
 > [디자인화면 - 링크필요]() 
 
 
@@ -31,7 +31,7 @@
 
     - 현재 페이지 타이틀
 
-      > Web: "포인트내역"
+      > Web: "포인트내역" or "결제내역<br />
       > App: "포인트내역"
 
     - 뒤로가기 버튼
@@ -41,8 +41,15 @@
 
 2. 컨텐츠
 
-    - 총 보유 포인트 및 최소 사용 가능 포인트 안내
-    - 포인트 획득 내역, 일시, 획득 포인트
+    - 포인트안내
+
+    > 총 보유 포인트 및 최소 사용 가능 포인트 안내<br />
+    > 포인트 획득 내역, 일시, 획득 포인트
+
+    - 결제안내
+
+    > 결제 내역 안내<br />
+    > 결제한 클래스, 일자, 결제방법 등 무통장일시 계좌번호 등
 
 
 3. 푸터
