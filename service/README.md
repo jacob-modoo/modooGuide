@@ -12,31 +12,30 @@
 ## 1장 사용자단
 
 1. [홈화면](ch1_home/)
-2. [검색단](ch1_home/search/)
-3. [로그인](ch1_home/login)
-4. [상세페이지](ch1_home/detail)
-5. [패키지](ch1_home/package)
-6. [결제화면](ch1_home/pay)
-7. [결제완료](ch1_home/confirm/)
-8. [알림페이지](ch1_home/alram/)
-9. [QA 문서](ch1_home/upgrade/)
-10. [config](ch1_home/config)
+1. [검색단](ch1_home/search/)
+1. [로그인](ch1_home/login)
+1. [상세페이지](ch1_home/detail)
+1. [패키지](ch1_home/package)
+1. [결제화면](ch1_home/pay)
+1. [결제완료](ch1_home/confirm/)
+1. [알림페이지](ch1_home/alram/)
+1. [QA 문서](ch1_home/upgrade/)
+1. [config](ch1_home/config)
 
 
 
 ## 2장 마이페이지
 
 1. [마이페이지](ch2_my_class/)
-2. [팔로워/팔로잉](ch2_my_class/follow)
-3. [친구페이지](ch2_my_class/friend)
-4. [프로필수정](ch2_my_class/edit)
-5. [포인트내역 | 결제내역](ch2_my_class/point)
-6. [내가남긴리뷰](ch2_my_class/review)
-7. 정산(기획 미완료)
-8. [이벤트 | 문의하기 | 자주묻는질문](ch2_my_class/)
-9. [이용약관 | 개인정보처리방침](ch2_my_class/)
-10. QA문서
-11. config
+1. [팔로워/팔로잉](ch2_my_class/follow)
+1. [친구페이지](ch2_my_class/friend)
+1. [프로필수정](ch2_my_class/edit)
+1. [포인트내역 | 결제내역](ch2_my_class/point)
+1. [내가남긴리뷰](ch2_my_class/review)
+1. 정산(기획 미완료)
+1. [이벤트 | 문의하기 | 자주묻는질문 | 이용약관 | 개인정보처리방침](ch2_my_class/notice)
+1. QA문서
+1. config
 
 
 
