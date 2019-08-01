@@ -61,7 +61,7 @@
 
 ### **#디자인**
 
-- [디자인 이미지(Zeplin) *update:0801](https://app.zeplin.io/project/5d414079bfc64e0d78ff6434/dashboard?seid=5d41439e6e60a5450be070f2)
+- [디자인 이미지(Zeplin) *update:0801](https://app.zeplin.io/project/5d414079bfc64e0d78ff6434/dashboard?seid=5d414603f2a18c2bc90c0211)
 
 - [@신미소](https://github.com/meeso-modoo)  코멘트
 
