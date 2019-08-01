@@ -73,6 +73,7 @@
 ````
 
 > 앱 브리지
+
 Chat 상세 화면 이동
 ```
 ios : webkit.messageHandlers.goToChatDetail.postMessage('room_id')
