@@ -68,7 +68,7 @@
 
 작성자 : [@신미소](https://github.com/meeso-modoo)
 
-- [디자인 이미지(png) *update:0729](https://drive.google.com/open?id=1N2eaHlCSkL-ypSoj5mDWc_bMHmjXXDIB)
+- [디자인 이미지(Zeplin) *update:0801](https://app.zeplin.io/project/5d414079bfc64e0d78ff6434/dashboard?seid=5d4143c5b0d72a455b1be280)
 
 - [@신미소](https://github.com/meeso-modoo)  코멘트
 
