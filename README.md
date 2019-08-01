@@ -100,9 +100,9 @@
 
 - [프로필수정](service/ch2_my_class/edit)  => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- [포인트내역 | 결제내역](service/ch2_my_class/point) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [포인트내역 | 결제내역](service/ch2_my_class/point) => [`web`](https://www.modooclass.net/class/user/point) [`web`](https://www.modooclass.net/class/user/payment) 
 
-- [내가남긴리뷰](service/ch2_my_class/review) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [내가남긴리뷰](service/ch2_my_class/review) => [`web`](https://www.modooclass.net/class/user/review) 
 
 - [정산(기획 미완료)](service/ch2_my_class/accounts) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
