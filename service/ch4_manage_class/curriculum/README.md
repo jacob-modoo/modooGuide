@@ -46,13 +46,16 @@
 3. 커리큘럼 리스트
    - 커리큘럼 정보 
    
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/ead7ebf4-e1de-40e6-7d99-cd89dea2a905-9ce6/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1kqYyWrBE972Drtviixf2k_TL0iBXrgTQ)
+- `@김보라`  
+  
 
-  > 디자이너의 코멘트
+<br>
 
 
 
