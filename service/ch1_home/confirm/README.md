@@ -2,8 +2,8 @@
 >[오픈알림 결제완료](https://www.modooclass.net/class/confirm/alarm/377/member/129639)  
 >[1:1코칭 결제완료](https://www.modooclass.net/class/confirm/coach/377/member/129639)  
 >[그 외 클래스 결제완료](https://www.modooclass.net/class/confirm/class/377/member/129639)  
-> 
-> [디자인화면 - 링크필요]() 
+
+
 
 <br><br>
 
@@ -70,17 +70,31 @@
 >> 사용자이미지 | 닉네임 | 스탬프 갯수 노출 | 팔로잉 (취소 불가능)  
 >> 20개씩 무한 스크롤
 
+
 <br>
 
 ### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
-
-- `@김보라`  코멘트
-
-  > 디자이너의 코멘트
+## 1:1 클래스 ㅣ 문진
+- [Preview link *update 7.31](https://xd.adobe.com/spec/77670e34-a6ce-447d-6cc7-227f0d4f1929-0156/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1J1WMxJ2Lagi54PDzM9axoefddVeZO4Sn)
 
 <br>
+
+## 알림신청완료 ㅣ 응원댓글  
+- [Preview link *update 7.31](https://xd.adobe.com/spec/c82ccba3-0054-440c-6910-d70d8e5e95e8-be1d/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1J1WMxJ2Lagi54PDzM9axoefddVeZO4Sn)
+
+<br>
+
+
+## 얼리버드·환급·일반·무료 ㅣ 그룹배정  ㅣ 초대 
+- [Preview link *update 7.31](https://xd.adobe.com/spec/890a3432-4782-4d0b-4275-6848d0ff50f5-ff3b/)   
+- [XD file *update 7.31](https://drive.google.com/file/d/1Wp2YR19wIJPnFia5_c4IhNIhNZjEMR8b/view?usp=sharing)
+
+<br>
+
+
 
 ### #개선사항
 
