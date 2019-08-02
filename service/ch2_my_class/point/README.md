@@ -2,7 +2,7 @@
 
 > [실제 서비스 화면 - 포인트](https://www.modooclass.net/class/user/point)<br />
 > [실제 서비스 화면 - 결제](https://www.modooclass.net/class/user/payment)<br />
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/9b540067-b1af-46fb-6de8-0e488570385a-ed65/)
 
 
 
@@ -70,14 +70,17 @@
 
 
 
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/9b540067-b1af-46fb-6de8-0e488570385a-ed65/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1myXC6C0zp9XYgncoEclSWeEE6ewY-Ce8)
+- `@김보라`  코멘트 : 발송인에 따라 초대장 타입이 다름*초대 정책 확인 요청 `@김대형`
 
-  > 디자이너의 코멘트
+  
 
+<br>
 
 
 ### #개선사항
