@@ -2,7 +2,7 @@
 
 > 클래스 관리 [실제 서비스 화면](https://www.modooclass.net/class/manager/list)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/9290ca09-5206-4e96-52b1-ea6503a358b4-e4a1/)   
 
 
 
@@ -72,15 +72,16 @@
 
 
 
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/9290ca09-5206-4e96-52b1-ea6503a358b4-e4a1/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=17ksYbtifRdW0nVOA4J-G6ZzRpaXX7JIR)
+- `@김보라`  
+  
 
-  > 디자이너의 코멘트
-
-
+<br>
 
 ### #개선사항
 
