@@ -1,7 +1,7 @@
 # 사용자단 - 내가 남긴 리뷰 관리 페이지
 
 > [실제 서비스 화면 - 내가 남긴 리뷰 관리](www.modooclass.net/class/user/review)
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/832d75f0-c900-490f-5c9f-4424c4bb1ca8-f51c/)   
 
 
 
@@ -71,14 +71,17 @@
 
 
 
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/832d75f0-c900-490f-5c9f-4424c4bb1ca8-f51c/)   
+- [XD file *update 7.31](https://drive.google.com/file/d/1oeZjut93AgRAqfPA6OTDws79VpJZaYrs/view?usp=sharing)
+- `@김보라`  코멘트 : 발송인에 따라 초대장 타입이 다름*초대 정책 확인 요청 `@김대형`
 
-  > 디자이너의 코멘트
+  
 
+<br>
 
 
 ### #개선사항
