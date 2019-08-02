@@ -1,7 +1,8 @@
 # 사용자단 - 프로필수정
 
 > [실제 서비스 화면](https://www.modooclass.net/class/user/profile)  
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.30](https://xd.adobe.com/spec/631dc785-644e-4170-6bcf-d1e486829c6f-152c/)   
+
 
 <br><br>
 
@@ -31,13 +32,19 @@
 
 ### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
-
+- [Preview link *update 7.30](https://xd.adobe.com/spec/631dc785-644e-4170-6bcf-d1e486829c6f-152c/)   
+- [XD file *update 7.31](https://drive.google.com/file/d/1-V-ANTWuQMj3Jc4yAQOm1TCDs-Sa0aR4/view?usp=sharing)
 - `@김보라`  코멘트
 
-  > 디자이너의 코멘트
+  - 
+  
+  - 
+  
+  - 
+  
 
 <br>
+
 
 ### #개선사항
 
