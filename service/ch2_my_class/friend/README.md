@@ -1,7 +1,7 @@
 # 사용자단 - 친구페이지
 
 > [실제 서비스 화면 - 신밍수](https://www.modooclass.net/class/user/friend_profile/138089)  
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/84c0bb4a-413b-4150-53ae-debad72ee32f-f2f1/)    
 
 <br><br>
 
@@ -39,17 +39,20 @@
 
 - 마이페이지와 동일하지만, 카드뷰 형태로만 보여짐 (버튼 기능들 모두 안보임)
 
+
+
 <br>
 
 ### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+- [Preview link *update 7.31](https://xd.adobe.com/spec/84c0bb4a-413b-4150-53ae-debad72ee32f-f2f1/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=16RvGGfoEQCEeJrtKYbLBurwqi01UMkiG)
+- `@김보라`  코멘트 : 발송인에 따라 초대장 타입이 다름*초대 정책 문서화 요청 `@김대형`
 
-- `@김보라`  코멘트
-
-  > 디자이너의 코멘트
+  
 
 <br>
+
 
 ### #개선사항
 
