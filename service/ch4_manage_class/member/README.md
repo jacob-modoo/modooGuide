@@ -2,7 +2,7 @@
 
 > 클래스 관리 - 수강생 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/attendee)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/b6c4dc15-dcef-486d-7c67-2bca84036193-c0f5/)   
 
 
 
@@ -54,15 +54,16 @@
     - 동료일
     - 메세지`구현중`
     - 결제 날짜
-   
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/b6c4dc15-dcef-486d-7c67-2bca84036193-c0f5/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1-8UWubOJSFIIOFVFPz-XypPfCwV7PEKt)
+- `@김보라`  
+  
 
-  > 디자이너의 코멘트
-
+<br>
 
 
 ### #개선사항
