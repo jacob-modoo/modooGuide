@@ -43,7 +43,7 @@
 ### #디자인
 
 - [Preview link *update 7.31](https://xd.adobe.com/spec/d4b402b3-de6e-4dc0-6ae3-486912d521a1-a285/)   
-- [XD file *update 7.31](https://xd.adobe.com/spec/d4b402b3-de6e-4dc0-6ae3-486912d521a1-a285/
+- [XD file *update 7.31](https://xd.adobe.com/spec/d4b402b3-de6e-4dc0-6ae3-486912d521a1-a285/)
 - `@김보라`  코멘트 : Board 방식은 추후 정하기로 함. `@김대형`
 
   
