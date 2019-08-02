@@ -2,7 +2,7 @@
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net/class/user/class_curriculum)
 >
-> [Preview link *update 7.31](https://xd.adobe.com/spec/639c21ae-f8c3-4dcb-5eeb-bdeefe5a4ab3-15ad/)   
+> [Preview link *update 7.31](https://xd.adobe.com/spec/bd496ea9-3080-4de3-528d-ac1d89ed81fb-cb78/)    
 
 
 - 이전      
@@ -115,8 +115,8 @@
 
 ### #디자인
 
-- [Preview link *update 7.31](https://xd.adobe.com/spec/639c21ae-f8c3-4dcb-5eeb-bdeefe5a4ab3-15ad/)   
-- [XD file *update 7.31](https://drive.google.com/open?id=1EGuQVfPSgkvIC5pDhnccrNhTrk16nPvF)
+- [Preview link *update 7.31](https://xd.adobe.com/spec/bd496ea9-3080-4de3-528d-ac1d89ed81fb-cb78/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1xfFqkRNkDLmD297dGqVEQ9XjW8kV6XOZ)
 - `@김보라`  코멘트 초기 참조 서비스 클래스101 ui와 매우 흡사... 
   
 
@@ -124,7 +124,7 @@
 
 ### #개선사항
 
-- [ ] 
+- [ `@김보라`] 매끄러운 ux ui / 정보단 + - 작업 필요! 
 
 
 
