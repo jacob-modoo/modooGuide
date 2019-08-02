@@ -1,7 +1,7 @@
 # 사용자단 - 마이페이지
 
 > [실제 서비스 화면](https://www.modooclass.net/class/user/mypage)  
-> [디자인화면 - 링크필요]() 
+> [XD file *update 7.31](https://drive.google.com/file/d/1kaEVhV56Sa7gLV71wteQmiTHxuCX9wKq/view?usp=sharing)
 
 <br><br>
 
@@ -101,11 +101,16 @@
 
 ### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
-
+- [Preview link *update 7.30](https://xd.adobe.com/spec/c7cb9a77-254a-4534-7f68-8475198a2946-b1fa/)   
+- [XD file *update 7.31](https://drive.google.com/file/d/1kaEVhV56Sa7gLV71wteQmiTHxuCX9wKq/view?usp=sharing)
 - `@김보라`  코멘트
 
-  > 디자이너의 코멘트
+  - 
+  
+  - 
+  
+  - 
+  
 
 <br>
 
