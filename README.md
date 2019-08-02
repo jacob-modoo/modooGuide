@@ -138,7 +138,7 @@
 - [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/class_curriculum) 
 - [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/class_package) 
 - [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/class_complete) 
-- [정산정보]=> [`web`] 
+- [정산정보]=> `web`ㅣ [`xd작업파일`](https://drive.google.com/file/d/1VWz6TPJ8OQfcsPJJlW0humVNY2EoA55Z/view?usp=sharing) [`preview link`](https://xd.adobe.com/spec/e3c529c2-4fd2-4f43-4a29-f5e5b723e65c-95f4/) -> 기획문서 생성부탁드려요! `@김대형`
 - [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 - [클래스개설 - configuration](service/ch3_open_class/config)
 
