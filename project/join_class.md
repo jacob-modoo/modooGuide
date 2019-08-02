@@ -44,7 +44,7 @@
 4. 차후 문제 해결 찾아야함. 
 
 ## 기획 화면. 
-> @신민수 링크 채워주세요. 
+> https://drive.google.com/drive/folders/1Rcs147BBxZRv1DzKwqGvf3nRHQ3MGWwB?usp=sharing
 
 ## 참여자. 
 @김대형 @신민수 @김보라 @신미소 @이대준 @
