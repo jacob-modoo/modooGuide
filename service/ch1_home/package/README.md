@@ -1,8 +1,7 @@
 # 사용자단 - 패키지 선택
 
 > [실제 서비스 화면 - ex) 김정은코치](https://www.modooclass.net/class/pay/package/507)  
-> [디자인화면](https://xd.adobe.com/spec/699c2614-f040-4df3-763e-acd3b3b73bfc-1fad/) 
-
+> [Preview link *update 7.31](https://xd.adobe.com/spec/daff7498-a5c4-4275-6c4a-0668e7018a4b-acce/)   
 <br><br>
 
 ### #목적
@@ -26,15 +25,16 @@
 	> 
 	> 패키지가 1개의 경우 -> 바로 결제 화면으로 이동
 
+
 <br>
 
 ### #디자인
 
-- https://xd.adobe.com/spec/699c2614-f040-4df3-763e-acd3b3b73bfc-1fad/
+- [Preview link *update 7.31](https://xd.adobe.com/spec/daff7498-a5c4-4275-6c4a-0668e7018a4b-acce/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=19CekTjudzWEcLMs1fszmcSuMufghT40B)
+- `@김보라`  코멘트
 
-- `@김보라` 코멘트
-
-> 디자이너의 코멘트
+  - 
 
 <br>
 
