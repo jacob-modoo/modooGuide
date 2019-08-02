@@ -2,7 +2,7 @@
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net/class/user/coach_propose)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/3f1e59d5-a1e2-4f77-41ee-1fc2fd40c535-492f/)   
 
 
 
