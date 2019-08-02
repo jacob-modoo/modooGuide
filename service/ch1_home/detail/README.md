@@ -97,11 +97,11 @@
 
 ### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+- [Preview link *update 7.31](https://xd.adobe.com/spec/465c869e-8b6e-41ee-5fed-7ea4fbca8660-306d/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1JNzJ8Oe5_AYkQvf5GB-4KAEBTXPKFKGO)
+- `@김보라`  코멘트
 
-- `@김보라` 코멘트
-
-> 디자이너의 코멘트
+  - 버전1 입니다. `@신민수` 재기획중 
 
 <br>
 
