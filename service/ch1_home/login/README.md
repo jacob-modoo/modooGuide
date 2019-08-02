@@ -42,18 +42,19 @@
 	> 개설 페이지로 이동
 
 
+
 <br>
 
 ### #디자인
 
-- https://xd.adobe.com/spec/1659c80e-042c-4d18-7bdd-73f73e63cef6-6068/
-
+- [Preview link *update 7.31](https://xd.adobe.com/spec/1659c80e-042c-4d18-7bdd-73f73e63cef6-6068/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=10_c8f9mUo9YNMiakhbCVMbBsAGp41nZG)
 - `@김보라`  코멘트
 
-  > 사용자의 소셜 로그인 빈도 파악 예정.
-  
-<br>
+  - 로그인 / 회원가입 sns 소셜로그인 
+ 
 
+<br>
 ### #개선사항
 
 <br>
