@@ -71,7 +71,7 @@
 
 - [알림지페이지](service/ch1_home/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 
-- [초대장](service/ch1_home/detail_invitation.md)  =>  `web` (링크 달아줘야해요.)
+- [초대장](service/ch1_home/detail_invitation.md)  =>  `web` (링크 달아줘야해요. `@김혜진`이 화면 링크를 달아주실수 있나요?)
 
 - [추가개선 : QA 문서](service/ch1_home/upgrade)
 
@@ -167,8 +167,7 @@
 
 - [수강생](service/ch4_manage_class/member) => [`web`](https://www.modooclass.net/class/manager/course/468/attendee) 
 
-- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) `미구현 `
-
+- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) [`xd작업파일`](https://drive.google.com/open?id=1IUoOJ3roo3wUhXRmvJGRm07KUyLRdQIl) [`preview link`](https://xd.adobe.com/spec/777b7762-cc4a-4ab0-7925-bd6ec53676f4-014a/) -> 기획문서 생성부탁드려요! `@김대형`
 - [추가개선 :  QA문서](service/ch4_manage_class/upgrade)
 
 - [클래스관리 - configuration](service/ch4_manage_class/config)
