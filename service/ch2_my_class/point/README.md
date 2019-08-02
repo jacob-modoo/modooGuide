@@ -76,7 +76,7 @@
 
 - [Preview link *update 7.31](https://xd.adobe.com/spec/9b540067-b1af-46fb-6de8-0e488570385a-ed65/)   
 - [XD file *update 7.31](https://drive.google.com/open?id=1myXC6C0zp9XYgncoEclSWeEE6ewY-Ce8)
-- `@김보라`  코멘트 : 발송인에 따라 초대장 타입이 다름*초대 정책 확인 요청 `@김대형`
+- `@김보라`  
 
   
 
