@@ -2,7 +2,7 @@
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/d4b402b3-de6e-4dc0-6ae3-486912d521a1-a285/)   
 
 
 
@@ -38,15 +38,17 @@
 
 
 
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/d4b402b3-de6e-4dc0-6ae3-486912d521a1-a285/)   
+- [XD file *update 7.31](https://xd.adobe.com/spec/d4b402b3-de6e-4dc0-6ae3-486912d521a1-a285/
+- `@김보라`  코멘트 : Board 방식은 추후 정하기로 함. `@김대형`
 
-  > 디자이너의 코멘트
+  
 
-
+<br>
 
 ### #개선사항
 
