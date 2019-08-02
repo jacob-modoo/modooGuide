@@ -59,6 +59,8 @@
 
 - https://xd.adobe.com/spec/733d92d3-e6a6-46b9-71f0-5b09848f9de2-050c/
 
+- [XD file *19.8.2](https://drive.google.com/open?id=1yQp84me4FbTe1xx9Bd-Wn0qVsrxtd9lu)
+
 - `@김보라`  코멘트
 
   > 앱화면단의 UI 동일하게 진행 
