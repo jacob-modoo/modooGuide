@@ -49,9 +49,7 @@
 
 - [Preview link *update 7.31](https://xd.adobe.com/spec/1659c80e-042c-4d18-7bdd-73f73e63cef6-6068/)   
 - [XD file *update 7.31](https://drive.google.com/open?id=10_c8f9mUo9YNMiakhbCVMbBsAGp41nZG)
-- `@김보라`  코멘트
-
-  - 로그인 / 회원가입 sns 소셜로그인 
+> 로그인 / 회원가입 sns 소셜로그인 방식. 
  
 
 <br>
