@@ -2,8 +2,7 @@
 
 > 클래스 관리 - 커뮤니티 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/community)
 >
-> [디자인화면 - 링크필요]() 
-
+> [Preview link *update 7.31](https://xd.adobe.com/spec/478bc29b-6629-46ac-73ae-61fc1a46b545-31ba/)   
 
 
 - [이전](../)      
@@ -58,15 +57,16 @@
       
    + 하단 페이징
    
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/478bc29b-6629-46ac-73ae-61fc1a46b545-31ba/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=13UinAmwUBxvb2uN8M7h8LUZgdCCSvVgp)
+- `@김보라`  
+  
 
-  > 디자이너의 코멘트
-
-
+<br>
 
 ### #개선사항
 
