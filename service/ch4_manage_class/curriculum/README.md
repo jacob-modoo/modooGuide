@@ -2,7 +2,7 @@
 
 > 클래스 관리 - 커리큘럼 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/curriculum)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/ead7ebf4-e1de-40e6-7d99-cd89dea2a905-9ce6/)    
 
 
 
