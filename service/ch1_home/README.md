@@ -94,8 +94,8 @@
 
 ### #디자인
 
-- https://xd.adobe.com/spec/1ae6c36a-704e-4d2c-61e0-6d26ce56710d-6cd7/
-
+- [Preview link *update 7.31](https://xd.adobe.com/spec/1ae6c36a-704e-4d2c-61e0-6d26ce56710d-6cd7/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1W0BUvlBLY-643nIk9hqd2x7EThoLEieD)
 - `@김보라`  코멘트
 
   > • 브랜드컬러ㅣ 보라(Primary_#7461F2), 민트(#14D2B8)
