@@ -56,12 +56,15 @@
 
 ### **#디자인**
 
+업데이트 일시 : 2019.08.02
+
+작성자 : [@신미소](https://github.com/meeso-modoo)
+
 - [디자인 이미지(Zeplin) *update:0801](https://app.zeplin.io/project/5d414079bfc64e0d78ff6434?seid=5d414603f2a18c2bc90c0211)
 
-- [@신미소](https://github.com/meeso-modoo)  코멘트
+- 채팅방
 
-  > 디자이너의 코멘트
-
+  > 클래스화면단 댓글과 동일한 형태의 UI 유지하며 나의 대화 내용은 primary blue(#7461f2)를 사용한다.
 
 
 ### #개선사항
