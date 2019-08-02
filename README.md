@@ -108,7 +108,7 @@
 
 - [정산(기획 미완료)](service/ch2_my_class/accounts) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- [이벤트 | 문의하기 | 자주묻는질문](service/ch2_my_class/board) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [공지사항 | 이벤트 | 문의하기 | 자주묻는질문](service/ch2_my_class/board) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
 - [이용약관 | 개인정보처리방침](service/ch2_my_class/notice) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
