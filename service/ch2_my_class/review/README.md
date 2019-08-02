@@ -1,6 +1,7 @@
 # 사용자단 - 내가 남긴 리뷰 관리 페이지
 
 > [실제 서비스 화면 - 내가 남긴 리뷰 관리](www.modooclass.net/class/user/review)
+
 > [Preview link *update 7.31](https://xd.adobe.com/spec/832d75f0-c900-490f-5c9f-4424c4bb1ca8-f51c/)   
 
 
