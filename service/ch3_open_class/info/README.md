@@ -2,7 +2,7 @@
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net/class/user/class_creat)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/639c21ae-f8c3-4dcb-5eeb-bdeefe5a4ab3-15ad/)
 
 
 
@@ -136,14 +136,16 @@
 
 
 
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/639c21ae-f8c3-4dcb-5eeb-bdeefe5a4ab3-15ad/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1EGuQVfPSgkvIC5pDhnccrNhTrk16nPvF)
+- `@김보라`  코멘트 초기 참조 서비스 클래스101 ui와 매우 흡사... 
+  
 
-  > 디자이너의 코멘트
-
+<br>
 
 
 ### #개선사항
