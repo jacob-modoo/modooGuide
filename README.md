@@ -71,7 +71,7 @@
 
 - [알림지페이지](service/ch1_home/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 
-- [초대장](service/ch1_home/upgrade)  =>  [ ]()
+- [초대장](service/ch1_home/detail_invitation.md)  =>  `web` (링크 달아줘야해요.)
 
 - [추가개선 : QA 문서](service/ch1_home/upgrade)
 
@@ -138,6 +138,7 @@
 - [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/class_curriculum) 
 - [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/class_package) 
 - [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/class_complete) 
+- [정산정보]=> [`web`] 
 - [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 - [클래스개설 - configuration](service/ch3_open_class/config)
 
