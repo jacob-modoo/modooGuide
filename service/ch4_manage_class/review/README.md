@@ -2,7 +2,7 @@
 
 > 클래스 관리 - 리뷰 [실제 서비스 화면](https://www.modooclass.net/class/manager/course/506/review)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/f219713a-2591-487d-629b-5777b3cbefe9-8428/) 
 
 
 
@@ -57,14 +57,16 @@
 4. 강의 평가 리스트
    + 각 강에 대한 미션 인증 내용과 강의 평가
    
-### **#디자인**
+<br>
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+### #디자인
 
-- `@김보라`  코멘트
+- [Preview link *update 7.31](https://xd.adobe.com/spec/f219713a-2591-487d-629b-5777b3cbefe9-8428/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1-7NX-HBw0ZtUKdzsMPLdpgv99V0YCokC)
+- `@김보라`  
+  
 
-  > 디자이너의 코멘트
-
+<br>
 
 
 ### #개선사항
