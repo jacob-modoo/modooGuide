@@ -34,7 +34,6 @@
 - [XD file *update 7.31](https://drive.google.com/open?id=19CekTjudzWEcLMs1fszmcSuMufghT40B)
 - `@김보라`  코멘트
 
-  - 
 
 <br>
 
