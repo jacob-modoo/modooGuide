@@ -2,7 +2,7 @@
 
 > 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net/class/user/class_package)
 >
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/1fb4700d-84a8-4422-7534-b06dd92d64f9-6985/)  
 
 
 
@@ -133,17 +133,15 @@
     - App: hide
 
 
+<br>
 
+### #디자인
 
-### **#디자인**
+- [Preview link *update 7.31](https://xd.adobe.com/spec/1fb4700d-84a8-4422-7534-b06dd92d64f9-6985/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1LGGAtjVsTVaLOT3Cpa87LOgloo7PCtgH)
+- `@김보라`  코멘트 : 발송인에 따라 초대장 타입이 다름*초대 정책 확인 요청 `@김대형`
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
-
-- `@김보라`  코멘트
-
-  > 디자이너의 코멘트
-
-
+<br>
 
 ### #개선사항
 
