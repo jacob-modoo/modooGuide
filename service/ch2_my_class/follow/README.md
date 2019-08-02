@@ -1,7 +1,7 @@
 # 사용자단 - 팔로워/팔로잉
 
 > [실제 서비스 화면](https://www.modooclass.net/class/user/following/129639)  
-> [디자인화면 - 링크필요]() 
+> [Preview link *update 7.30](https://xd.adobe.com/spec/5573337b-c04f-4c50-4e56-185b117c6367-2342/) 
 
 <br><br>
 
@@ -33,15 +33,21 @@
 - 팔로잉/팔로워 리스트
 	> 사용자이미지 | 닉네임 | 팔로잉/취소 버튼
 
+
 <br>
 
 ### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
-
+- [Preview link *update 7.30](https://xd.adobe.com/spec/5573337b-c04f-4c50-4e56-185b117c6367-2342/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1xreCCGllezshM6QbDgXqtisI4lpQtYqV)
 - `@김보라`  코멘트
 
-  > 디자이너의 코멘트
+  - 
+  
+  - 
+  
+  - 
+  
 
 <br>
 
