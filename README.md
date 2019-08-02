@@ -63,13 +63,15 @@
 
 - [상세 (알림|1:1코칭|무료|선결제|환급|일반)](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
 
-- [패키지 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
+- [패키지](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
 
 - [결제화면](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
 
 - [결제완료](service/ch1_home/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
 
 - [알림지페이지](service/ch1_home/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
+
+- [초대장](service/ch1_home/upgrade)  =>  [ ]()
 
 - [추가개선 : QA 문서](service/ch1_home/upgrade)
 
