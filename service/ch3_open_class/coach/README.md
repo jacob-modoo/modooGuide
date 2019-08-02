@@ -119,15 +119,17 @@
 
 
 
+<br>
 
-### **#디자인**
+### #디자인
 
-- [디자인 이미지 링크 (최근 업데이트 이미지) - 링크필요]()
+- [Preview link *update 7.31](https://xd.adobe.com/spec/3f1e59d5-a1e2-4f77-41ee-1fc2fd40c535-492f/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1RxOXHqS-x4QbSlbaZwZfrFDhRzEqU-E7)
+- `@김보라`  코멘트 : 발송인에 따라 초대장 타입이 다름*초대 정책 확인 요청 `@김대형`
 
-- `@김보라`  코멘트
+  
 
-  > 디자이너의 코멘트
-
+<br>
 
 
 ### #개선사항
