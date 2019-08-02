@@ -1,7 +1,7 @@
 # 사용자단 - 결제화면
 
 > [실제 서비스 화면 - ex) 김정은코치](https://www.modooclass.net/class/pay/payinfo/507/224)  
-> [디자인화면](https://xd.adobe.com/spec/699c2614-f040-4df3-763e-acd3b3b73bfc-1fad/) 
+> [Preview link *update 7.31](https://xd.adobe.com/spec/0da930f0-5150-4ac9-776f-842e6e5bc72d-7b98/) 
 
 <br><br>
 
@@ -66,13 +66,14 @@
 
 ### #디자인
 
-- https://xd.adobe.com/spec/699c2614-f040-4df3-763e-acd3b3b73bfc-1fad/
+- [Preview link *update 7.31](https://xd.adobe.com/spec/0da930f0-5150-4ac9-776f-842e6e5bc72d-7b98/)   
+- [XD file *update 7.31](https://drive.google.com/open?id=1zNLLgRb-OaFREjvP5t34j2qbWMVEeTru)
+- `@김보라`  코멘트
 
-- `@김보라` 코멘트
 
-> 디자이너의 코멘트
 
 <br>
+
 
 ### #개선사항
 
