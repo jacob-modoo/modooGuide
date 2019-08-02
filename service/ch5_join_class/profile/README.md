@@ -78,6 +78,10 @@ Body-3
 
 ### **#디자인**
 
+업데이트 일시 : 2019.08.02
+
+작성자 : [@신미소](https://github.com/meeso-modoo)
+
 - [디자인 이미지(Zeplin) *update:0801](https://app.zeplin.io/project/5d414079bfc64e0d78ff6434?seid=5d4144c3bc2f508866da2e03)
 
 - [@신미소](https://github.com/meeso-modoo)  코멘트
