@@ -100,7 +100,7 @@
 - [XD file *update 7.31](https://drive.google.com/open?id=1JNzJ8Oe5_AYkQvf5GB-4KAEBTXPKFKGO)
 - `@김보라`  코멘트
 
-  - 버전1 입니다. `@신민수` 재기획중 
+  
 
 <br>
 
