@@ -59,9 +59,10 @@ Adobe XD 또는 Powerpoint를 다루는 능력있는 분
 직무를 넘나들며 배우기를 좋아하는 분  
 원활한 커뮤니케이션을 위한 자신만의 팁을 가진 분  
 프로젝트의 감독자로써 전체 일정을 조망할 수 있는 분  
-  
 
-
+[참고영상1 - 프로덕트매니저는 무슨일을 하는가](https://www.youtube.com/watch?v=1XlV1AJbXI8)  
+[참고영상2 - 프로덕트매니저로써 필요한 스킬들](https://www.youtube.com/watch?v=YZhI76HnBHM)  
+(출처-boombar diary youtube)
 
 3. 인터뷰 질문을 적어주세요.
 > 1. 설득력 있는 주장을 하기 위해 어떤 방식으로 커뮤니케이션을 하시는 편이신가요?  
