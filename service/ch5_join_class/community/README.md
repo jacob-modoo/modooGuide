@@ -12,7 +12,7 @@
 
 - 이전      
 - [**메인인덱스**](../README.md)     
-- [다음 : 프로필]( ../chat/README.md)
+- [다음 : 챗팅]( ../chat/README.md)
 
 
 

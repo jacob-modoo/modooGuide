@@ -40,7 +40,7 @@
 
 로 나누어져 있습니다.
 
-![App Chatting Screen1](../img/chatting1.jpg)
+![App Chatting Screen1](../img/chat/chat.jpg)
 
 #### 1.Top
 - 준비 중입니다.

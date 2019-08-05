@@ -42,7 +42,7 @@
 
 로 나누어져 있습니다.
 
-![App Class(Cheer) Screen1](../img/class_cheer1.jpg)
+![App Class(Cheer) Screen1](../img/cheer/cheer.jpg)
 
 #### 1.Top
 - 영상이 재생됩니다.
