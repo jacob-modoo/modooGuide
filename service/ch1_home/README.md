@@ -94,8 +94,8 @@
 
 ### #디자인
 
-- [Preview link *update 7.31](https://xd.adobe.com/spec/1ae6c36a-704e-4d2c-61e0-6d26ce56710d-6cd7/)   
-- [XD file *update 7.31](https://drive.google.com/open?id=1W0BUvlBLY-643nIk9hqd2x7EThoLEieD)
+- [홈 Preview link *update 8.6](https://xd.adobe.com/spec/1ae6c36a-704e-4d2c-61e0-6d26ce56710d-6cd7/)   
+- [홈 XD file *update 8.6](https://drive.google.com/open?id=1W0BUvlBLY-643nIk9hqd2x7EThoLEieD)
 - `@김보라`  코멘트
 
 
@@ -106,8 +106,8 @@
    - **COLOUR**
     > 에너지틱하며 액티브한 브랜드 이미지를 전달하며, 플랫폼 특성을 고려한 블루계열의 컬러를 주조색으로 사용하여 팔레트를 확장해 나간다.
   
-   - **TYPOGRAPHY**
-    > 타이틀과 본문은 각각의 OS별 시스템폰트를 사용하여 가독성을 높이고 장식성을 배제하여 컨텐츠에 집중성을 높인다.
+   - **클래스리스팅**
+    > 사용자의 니즈에 맞도록 플로우 구성한다. 선택의 역설을 보다 효과적으로 보여준다. 클래스 타입의 목적에 맞는 타입별 UI 디자인을 한다.
 
 
 <br>
