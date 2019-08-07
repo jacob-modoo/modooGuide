@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1QatMFzVcCZ5JFaph4xfUbTmavuu8f1VfwrtOb2GP
 **해당 내용까지 완료되면 스프레드 시트에 '수요조사'탭으로 Status 변경**
  
 **2) 수요 조사 : 수요조사 단계까지 온 코치는 클래스 오픈을 하도록 최선을 다해 장려하는 것이 목표!**  
- > 1. 영상에 포함 요청 : 미션내용 / 미션 수행 독려 / 수강생들에게 댓글 작성 요청 -> 커리큘럼 스프레드시트 전달하기 
+ > 1. 영상에 포함 요청 : 미션내용 / 미션 수행 독려 / 수강생들에게 댓글 작성 요청 -> 커리큘럼 스프레드시트 전달하기 (https://docs.google.com/spreadsheets/d/1H1OPEhqVJbYzD2xfFnBhQ7J4R7ZMX8u9AAJTt5FeBPE/edit#gid=0)
  > 1. 30일동안 수요조사 진행  
  > 1. 1강 제작요청 및 상세 페이지에 임베드  
  > 1. 수요조사 50명 미달 시, 1만원미만의 금액으로 오픈 제안 / 50명이상 시 클래스 금액 자유 책정  
