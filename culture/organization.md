@@ -137,5 +137,5 @@
 3. 구성원 ( why대한 본질적 질문 / 학습:러닝커브 & 문제해결)
 
 ----
-> [인사발령 공고문](https://github.com/jacob-modoo/modooGuide/blob/master/culture/notice/2019-08-27.%EC%9D%B8%EC%82%AC%EB%B0%9C%EB%A0%B9%20%EA%B3%B5%EA%B3%A0%EB%AC%B8.docx)  
+> [인사발령 공고문](https://github.com/jacob-modoo/modooGuide/blob/master/culture/notice/2019-08-27.%EC%9D%B8%EC%82%AC%EB%B0%9C%EB%A0%B9%20%EC%8B%9C%ED%96%89%EB%AC%B8.docx)  
 > [별첨.조직도](https://github.com/jacob-modoo/modooGuide/blob/master/assets/image/%EC%A1%B0%EC%A7%81%EB%8F%8411.png)
