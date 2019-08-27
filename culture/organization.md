@@ -50,6 +50,8 @@
 
 > 업무는 작게 프로젝트 태스크로 진행 : 자율성과 책임을 강조. 
 
+[조직도](https://github.com/jacob-modoo/modooGuide/blob/master/assets/image/%EC%A1%B0%EC%A7%81%EB%8F%84.png)
+
 ## 프로젝트 단위의 업무 진행
 모든 업무 태스크는 프로젝트 단위로 생성되며, 
 누구나 PM에게 건의 및 제안을 할 수 있다. 
@@ -132,3 +134,6 @@
 1. 투명한 정보 시스템
 2. 리더의 자세
 3. 구성원 ( why대한 본질적 질문 / 학습:러닝커브 & 문제해결)
+
+----
+> [인사발령 공고문](https://github.com/jacob-modoo/modooGuide/blob/master/culture/notice/%EC%9D%B8%EC%82%AC%EB%B0%9C%EB%A0%B9%20%EA%B3%B5%EA%B3%A0%EB%AC%B8.docx)
