@@ -50,7 +50,7 @@
 
 > 업무는 작게 프로젝트 태스크로 진행 : 자율성과 책임을 강조. 
 
-[조직도](https://github.com/jacob-modoo/modooGuide/blob/master/assets/image/%EC%A1%B0%EC%A7%81%EB%8F%84.png)
+[조직도](https://github.com/jacob-modoo/modooGuide/blob/master/assets/image/%EC%A1%B0%EC%A7%81%EB%8F%8411.png)
 
 ## 프로젝트 단위의 업무 진행
 모든 업무 태스크는 프로젝트 단위로 생성되며, 
