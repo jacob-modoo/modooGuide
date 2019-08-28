@@ -55,4 +55,4 @@ R&R은  담당자들에게 업무에 대해서 개별적으로 일을 하거나,
    - Achive
    - 기술경력서. 
 
-(예제)[https://www.google.com/search?newwindow=1&biw=2020&bih=1246&tbm=isch&sa=1&ei=qftmXaPRDs_T-QadgK-QCw&q=role+and+responsibility+template&oq=role+and+responsibility+&gs_l=img.3.0.0l2j0i30l8.7440.7440..9534...0.0..0.82.82.1......0....1..gws-wiz-img.FjpmgTM1wbk#imgrc=0seXb9vWGReGaM:]
+[예제 ](https://www.google.com/search?newwindow=1&biw=2020&bih=1246&tbm=isch&sa=1&ei=qftmXaPRDs_T-QadgK-QCw&q=role+and+responsibility+template&oq=role+and+responsibility+&gs_l=img.3.0.0l2j0i30l8.7440.7440..9534...0.0..0.82.82.1......0....1..gws-wiz-img.FjpmgTM1wbk#imgrc=0seXb9vWGReGaM:)
